@@ -211,3 +211,43 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
 - [Anexos](#anexos)
 
 <br><br>
+
+## Capítulo 1: Introducción
+
+### 1.1. Startup Profile
+
+#### 1.1.1. Descripción de la Startup
+
+TrainEase es una plataforma web innovadora que simplifica la búsqueda y reserva de personal trainers para tus necesidades de fitness. Con nuestro catálogo interactivo, puedes explorar una amplia gama de entrenadores profesionales disponibles en tu área, todo con solo unos clics. Nuestro mapa intuitivo te permite encontrar fácilmente entrenadores cercanos que se ajusten a tus preferencias y horarios.
+
+¿Buscas una sesión de entrenamiento presencial o prefieres la comodidad del entrenamiento en línea a través de Zoom? Con TrainEase, tienes la libertad de elegir el método que mejor se adapte a tu estilo de vida y preferencias de entrenamiento. Además, nuestra plataforma te permite reservar fácilmente fechas y horas específicas que funcionen para ti, eliminando la molestia de coordinar agendas.
+
+Ya sea que estés buscando perder peso, ganar músculo o simplemente mantenerte en forma, nuestros entrenadores certificados están listos para ayudarte a alcanzar tus objetivos de fitness. Obtén asesoramiento experto y motivación personalizada durante cada sesión, llevando tu entrenamiento al siguiente nivel con TrainEase.
+
+<strong>Misión:</strong>
+
+Facilitar el acceso a entrenadores personales profesionales y certificados, brindando a nuestros usuarios una experiencia conveniente y personalizada en su viaje hacia la salud y el bienestar físico. Nos comprometemos a simplificar la búsqueda y reserva de sesiones de entrenamiento, ofreciendo flexibilidad y variedad de opciones para satisfacer las necesidades individuales de nuestros clientes.
+
+<strong>Visión:</strong>
+
+Convertirnos en la plataforma líder en Perú para la conexión entre usuarios y entrenadores personales, siendo reconocidos por nuestra innovación, confiabilidad y compromiso con el éxito de nuestros clientes en sus objetivos de fitness. Aspiramos a ser la opción preferida para aquellos que buscan mejorar su condición física, ofreciendo una experiencia sin complicaciones y resultados tangibles que transformen vidas.
+
+#### 1.1.2. Perfiles de integrantes del equipo
+
+<table>
+  <tr>
+    <th>Miembro del equipo</th>
+    <th>Descripción</th>
+    <th>Codigo de usuario</th>
+  </tr>
+  <tr>
+    <td><img src="https://media.discordapp.net/attachments/1025767455454412901/1223852354659418123/image.png?ex=661b5c53&is=6608e753&hm=3ae03c26c116b1d67f6ad465cfa1688b5e57f47e29d6a590625f3e310d943e1d&=&format=webp&quality=lossless"></td>
+    <td>Soy un estudiante de Ingeniería de Software con una fuerte inclinación hacia el liderazgo y la organización de equipos, destacándome por mi participación activa y proactiva en proyectos. Mi enfoque colaborativo me permite asignar tareas de manera eficiente y motivar a mis compañeros, mientras que mis habilidades técnicas en herramientas como Figma, Adobe XD, HTML y CSS respaldan mi capacidad para materializar ideas. Busco constantemente oportunidades de crecimiento y aprendizaje, y estoy comprometido con impulsar la innovación y el éxito en cualquier entorno de desarrollo de software.</td>
+    <td>u202011431</td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/attachments/1004952348034093067/1223850495001755698/image.png?ex=661b5a98&is=6608e598&hm=27a22f3dc7186f30ea3483a7888138a4d9d51e34c06b5cd328a512bf95cd486f&"></td>
+    <td>Mi nombre es Brayan Stiven Gamboa Delgado, tengo 19 años y me encuentro cursando la carrera de Ingeniería de Software en la UPC. Soy puntual y comprometido con los trabajos, también tengo manejo en python.</td>
+    <td>u202112655</td>
+  </tr>
+</table>
