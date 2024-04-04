@@ -288,3 +288,116 @@ El costo asociado con resolver este problema incluirá los gastos de desarrollo 
 
 ###### ¿Cuántas personas saldrán beneficiadas con nuestro producto?
 El número de personas beneficiadas dependerá de la adopción de la plataforma. Potencialmente, cualquier persona interesada en mejorar su estado físico y bienestar general podría beneficiarse de TrainEase, lo que representa un amplio mercado objetivo, y los trainers que deseen promocionar sus servicios en nuestra plataforma.
+
+#### 1.2.2 Lean UX Process
+
+##### 1.2.2.1 Lean UX Problem Statements
+
+###### **Problem Statement:**
+
+El objetivo de TrainEase es proporcionar una solución integral y centralizada para la búsqueda, reserva y coordinación de sesiones de entrenamiento personalizado con entrenadores físicos certificados.
+
+El problema radica en la dificultad que enfrentan las personas para encontrar y reservar sesiones con personal trainers que se ajusten a sus necesidades específicas de fitness debido a la falta de una plataforma centralizada y fácil de usar.
+
+En consecuencia, muchas personas experimentan obstáculos en su camino hacia la mejora de su salud y condición física, lo que resulta en una falta de compromiso y progreso en sus objetivos fitness. Esto puede llevar a una desmotivación y un estilo de vida menos activa.
+
+
+##### 1.2.2.2 Lean UX Assumptions
+
+###### **Business Assumptions:**
+
+**Creemos que nuestros usuarios necesitan** acceso rápido y sencillo a trainers calificados que se adapten a sus necesidades fitness.
+
+**Estas necesidades se pueden satisfacer** ofreciendo una plataforma intuitiva que simplifique la búsqueda, reserva y coordinación de sesiones de entrenamiento.
+
+**Nuestros clientes serán** personas que buscan mejorar su salud y condición física, valorando la conveniencia y personalización que ofrecemos en la búsqueda y reserva de trainers.
+
+**El valor más importante que un cliente quiere de nuestros servicios** es la capacidad de encontrar entrenadores confiables que los ayuden a alcanzar sus metas fitness de manera efectiva.
+
+**El cliente también va a obtener** transparencia en la información de cada entrenador, flexibilidad en las opciones de entrenamiento y una experiencia de usuario intuitiva en nuestra plataforma.
+
+**Vamos a obtener la mayoría de los clientes mediante** estrategias de marketing digital dirigidas a personas interesadas en mejorar su estilo de vida saludable.
+
+**Vamos a obtener ingresos mediante** el cobro de una comisión por cada transacción realizada en la app web.
+
+**Nuestra competencia principal en el mercado serán** otras plataformas de búsqueda y reserva de personal trainer.
+
+**Vamos a tener ventaja frente a nuestra competencia debido a** que ofrecemos una experiencia de usuario más intuitiva y la flexibilidad para ofrecer sesiones presenciales y virtuales con trainers calificados.
+
+**El mayor riesgo del servicio es no satisfacer** las expectativas de los usuarios en términos de calidad de los entrenadores o la experiencia en la plataforma.
+
+**Lo resolveremos realizando** un riguroso proceso de selección y verificación de trainers, y obteniendo retroalimentación constante de los usuarios para mejorar nuestra plataforma.
+
+
+###### **User Assumptions:**
+
+###### **¿Quién es el usuario?**
+
+El usuario es cualquier persona interesada en mejorar su salud y condición física a través de sesiones de entrenamiento personalizado con entrenadores físicos calificados. 
+
+###### **¿Qué problemas tiene nuestro producto? ¿Qué problemas resuelve?**
+
+Nuestro producto aborda la dificultad que enfrentan las personas al encontrar y reservar sesiones de entrenamiento personalizado con entrenadores físicos. Al simplificar este proceso a través de una plataforma centralizada, TrainEase resuelve los problemas de falta de información, dificultad para coordinar horarios y la incomodidad de buscar individualmente a través de múltiples fuentes.
+
+###### **¿Qué características son importantes?**
+
+Acceso a un amplio catálogo de trainers calificados.
+Transparencia en la información del perfil de cada entrenador, incluyendo calificaciones y reseñas de clientes.
+Flexibilidad en las opciones de entrenamiento y horarios.
+
+###### **¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+Nuestro producto encaja en la vida cotidiana de los usuarios al proporcionarles una herramienta conveniente y accesible para mejorar su salud y condición física. TrainEase les permite encontrar y reservar sesiones de entrenamiento de manera eficiente, adaptándose a sus agendas ocupadas y preferencias de entrenamiento.
+
+###### **¿Cuándo y cómo es nuestro producto usado?**
+
+Nuestro producto se utiliza en cualquier momento en que los usuarios deseen encontrar y reservar sesiones de entrenamiento con trainers. Pueden acceder a la plataforma TrainEase desde cualquier dispositivo con conexión a Internet para buscar, reservar y coordinar sesiones de entrenamiento según su conveniencia.
+
+###### **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
+
+Nuestro producto debe tener un diseño limpio y moderno que refleje la seriedad y profesionalismo de los servicios ofrecidos. La plataforma debe comportarse de manera ágil y receptiva, permitiendo a los usuarios navegar fácilmente, buscar trainers y completar el proceso de reserva de manera eficiente.
+
+
+###### **Feature Assumptions:**
+
+**Creemos que** ofrecer perfiles detallados de entrenadores, incluyendo su experiencia, especialización y reseñas, ayudará a los usuarios a tomar decisiones informadas.
+
+**Creemos que** los filtros de búsqueda avanzados, como ubicación y disponibilidad, permitirán a los usuarios encontrar rápidamente entrenadores que se ajusten a sus necesidades.
+
+**Creemos que** un sistema de reserva intuitivo y un calendario integrado simplificarán la coordinación de horarios y la reserva de sesiones.
+
+**Creemos que** enviar notificaciones y recordatorios sobre sesiones programadas ayudará a los usuarios a mantenerse comprometidos con sus entrenamientos.
+
+
+##### 1.2.2.3 Lean UX Hypothesis Statements
+* **Hypothesis Statement 01:**
+
+  **Creemos que** al ofrecer perfiles detallados de entrenadores, los usuarios tomarán decisiones más informadas. 
+
+  **Sabremos** que esta hipótesis es válida
+
+  **Cuando** observemos un aumento del 70% en la cantidad de usuarios que reservan sesiones después de revisar los perfiles detallados, dentro de un mes después de su implementación.
+
+* **Hypothesis Statement 02:**
+ 
+  **Creemos que** al implementar filtros de búsqueda avanzados, los usuarios podrán encontrar rápidamente entrenadores que se ajusten a sus necesidades.
+
+  **Sabremos** que esta hipótesis es válida 
+
+  **Cuando** notemos una disminución del 40% en el tiempo promedio de búsqueda y un aumento en el número de reservas dentro de dos semanas después de su implementación.
+
+* **Hypothesis Statement 03:**
+
+  **Creemos que** al proporcionar un sistema de reserva intuitivo, los usuarios tendrán una experiencia más fluida al coordinar horarios y reservar sesiones. 
+
+  **Sabremos** que esta hipótesis es válida 
+
+  **Cuando** veamos una reducción del 60% en las quejas relacionadas con dificultades en la reserva y un aumento en la tasa de reservas completadas dentro de tres semanas después de su implementación.
+
+* **Hypothesis Statement 04:**  
+
+  **Creemos que** enviar notificaciones y recordatorios sobre sesiones programadas ayudará a los usuarios a mantenerse comprometidos con sus entrenamientos. 
+
+  **Sabremos** que esta hipótesis es válida 
+
+  **Cuando** observemos un aumento del 30% en la asistencia a las sesiones programadas y una disminución del 60% en el número de sesiones canceladas dentro de un mes después de la implementación de esta función.
