@@ -251,3 +251,40 @@ Convertirnos en la plataforma líder en Perú para la conexión entre usuarios y
     <td>u202112655</td>
   </tr>
 </table>
+
+### 1.2. Solution Profile
+
+Nuestra solución ante la problemática que explicaremos mediante el uso de las 5 "W" y 2 "H" será TrainEase, una plataforma web innovadora que simplifica la búsqueda y reserva de personal trainers para tus necesidades de fitness. Puedes explorar una amplia gama de entrenadores profesionales disponibles en tu área, todo con solo unos clics.
+
+#### 1.2.1 Antecedentes y problemática
+
+###### What? - ¿Qué?
+###### ¿Cuál es el problema?
+El problema radica en la dificultad que enfrentan las personas para encontrar y reservar sesiones de entrenamiento presencial/virtual con personal trainers que se ajusten a sus necesidades específicas de fitness.
+
+###### When? - ¿Cuándo?
+###### ¿Cuando ocurre el problema?
+Este problema surge cada vez que una persona busca activamente entrenadores físicos para mejorar su salud y condición física, pero se enfrenta a obstáculos en la búsqueda y reserva de sesiones.
+
+###### Where? - ¿Dónde?
+###### ¿Dónde se tomarán las medidas?
+Las medidas se tomarán en una plataforma web, TrainEase, proporcionando un espacio digital donde los usuarios puedan acceder fácilmente a una variedad de entrenadores físicos y reservar sesiones de entrenamiento.
+
+###### Who? - ¿Quién?
+###### ¿Quién lo utilizará? ¿Quién es el cliente de este producto?
+Los principales usuarios de este producto son los clientes que buscan mejorar su estado físico y alcanzar sus objetivos de fitness, así como los trainers que desean ofrecer sus servicios a una audiencia más amplia.
+
+###### Why? - ¿Por qué?
+###### ¿Por qué es necesario resolver este problema?
+Los principales usuarios de este producto son los clientes que buscan mejorar su estado físico y alcanzar sus objetivos de fitness, así como los trainers que desean ofrecer sus servicios a una audiencia más amplia.
+
+###### How? - ¿Cómo?
+###### ¿Cómo se resolverá el problema?
+El problema se abordará mediante el desarrollo de una plataforma web interactiva que permita a los usuarios buscar trainers según sus necesidades específicas, programar sesiones de entrenamiento y coordinar horarios de manera eficiente. Además, los trainers contarán con un apartado en el que podrán gestionar su perfil y las citas programadas por los clientes.
+
+###### How much? - ¿Cuánto?
+###### ¿Cuánto costará resolver el problema?
+El costo asociado con resolver este problema incluirá los gastos de desarrollo y mantenimiento de la plataforma, así como los honorarios que los usuarios pagarán a los trainers por sus servicios. Los precios variarán dependiendo de la duración y el tipo de sesión de entrenamiento.
+
+###### ¿Cuántas personas saldrán beneficiadas con nuestro producto?
+El número de personas beneficiadas dependerá de la adopción de la plataforma. Potencialmente, cualquier persona interesada en mejorar su estado físico y bienestar general podría beneficiarse de TrainEase, lo que representa un amplio mercado objetivo, y los trainers que deseen promocionar sus servicios en nuestra plataforma.
