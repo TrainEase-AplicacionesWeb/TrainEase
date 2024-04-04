@@ -218,19 +218,19 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
 
 #### 1.1.1. Descripción de la Startup
 
-TrainEase es una plataforma web innovadora que simplifica la búsqueda y reserva de personal trainers para tus necesidades de fitness. Con nuestro catálogo interactivo, puedes explorar una amplia gama de entrenadores profesionales disponibles en tu área, todo con solo unos clics. Nuestro mapa intuitivo te permite encontrar fácilmente entrenadores cercanos que se ajusten a tus preferencias y horarios.
+TrainEase es una plataforma web innovadora que simplifica la búsqueda y reserva de personal trainers para tus necesidades de fitness. Con nuestro catálogo interactivo, puedes explorar una amplia gama de trainers profesionales disponibles en tu área, todo con solo unos clics. Nuestro mapa intuitivo te permite encontrar fácilmente trainers cercanos que se ajusten a tus preferencias y horarios.
 
 ¿Buscas una sesión de entrenamiento presencial o prefieres la comodidad del entrenamiento en línea a través de Zoom? Con TrainEase, tienes la libertad de elegir el método que mejor se adapte a tu estilo de vida y preferencias de entrenamiento. Además, nuestra plataforma te permite reservar fácilmente fechas y horas específicas que funcionen para ti, eliminando la molestia de coordinar agendas.
 
-Ya sea que estés buscando perder peso, ganar músculo o simplemente mantenerte en forma, nuestros entrenadores certificados están listos para ayudarte a alcanzar tus objetivos de fitness. Obtén asesoramiento experto y motivación personalizada durante cada sesión, llevando tu entrenamiento al siguiente nivel con TrainEase.
+Ya sea que estés buscando perder peso, ganar músculo o simplemente mantenerte en forma, nuestros trainers calificados están listos para ayudarte a alcanzar tus objetivos de fitness. Obtén asesoramiento experto y motivación personalizada durante cada sesión, llevando tu entrenamiento al siguiente nivel con TrainEase.
 
 <strong>Misión:</strong>
 
-Facilitar el acceso a entrenadores personales profesionales y certificados, brindando a nuestros usuarios una experiencia conveniente y personalizada en su viaje hacia la salud y el bienestar físico. Nos comprometemos a simplificar la búsqueda y reserva de sesiones de entrenamiento, ofreciendo flexibilidad y variedad de opciones para satisfacer las necesidades individuales de nuestros clientes.
+Facilitar el acceso a trainers personales profesionales y calificados, brindando a nuestros usuarios una experiencia conveniente y personalizada en su viaje hacia la salud y el bienestar físico. Nos comprometemos a simplificar la búsqueda y reserva de sesiones de entrenamiento, ofreciendo flexibilidad y variedad de opciones para satisfacer las necesidades individuales de nuestros clientes.
 
 <strong>Visión:</strong>
 
-Convertirnos en la plataforma líder en Perú para la conexión entre usuarios y entrenadores personales, siendo reconocidos por nuestra innovación, confiabilidad y compromiso con el éxito de nuestros clientes en sus objetivos de fitness. Aspiramos a ser la opción preferida para aquellos que buscan mejorar su condición física, ofreciendo una experiencia sin complicaciones y resultados tangibles que transformen vidas.
+Convertirnos en la plataforma líder en Perú para la conexión entre usuarios y trainers personales, siendo reconocidos por nuestra innovación, confiabilidad y compromiso con el éxito de nuestros clientes en sus objetivos de fitness. Aspiramos a ser la opción preferida para aquellos que buscan mejorar su condición física, ofreciendo una experiencia sin complicaciones y resultados tangibles que transformen vidas.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
@@ -254,7 +254,7 @@ Convertirnos en la plataforma líder en Perú para la conexión entre usuarios y
 
 ### 1.2. Solution Profile
 
-Nuestra solución ante la problemática que explicaremos mediante el uso de las 5 "W" y 2 "H" será TrainEase, una plataforma web innovadora que simplifica la búsqueda y reserva de personal trainers para tus necesidades de fitness. Puedes explorar una amplia gama de entrenadores profesionales disponibles en tu área, todo con solo unos clics.
+Nuestra solución ante la problemática que explicaremos mediante el uso de las 5 "W" y 2 "H" será TrainEase, una plataforma web innovadora que simplifica la búsqueda y reserva de personal trainers para tus necesidades de fitness. Puedes explorar una amplia gama de trainers profesionales disponibles en tu área, todo con solo unos clics.
 
 #### 1.2.1 Antecedentes y problemática
 
@@ -264,11 +264,11 @@ El problema radica en la dificultad que enfrentan las personas para encontrar y 
 
 ###### When? - ¿Cuándo?
 ###### ¿Cuando ocurre el problema?
-Este problema surge cada vez que una persona busca activamente entrenadores físicos para mejorar su salud y condición física, pero se enfrenta a obstáculos en la búsqueda y reserva de sesiones.
+Este problema surge cada vez que una persona busca activamente trainers físicos para mejorar su salud y condición física, pero se enfrenta a obstáculos en la búsqueda y reserva de sesiones.
 
 ###### Where? - ¿Dónde?
 ###### ¿Dónde se tomarán las medidas?
-Las medidas se tomarán en una plataforma web, TrainEase, proporcionando un espacio digital donde los usuarios puedan acceder fácilmente a una variedad de entrenadores físicos y reservar sesiones de entrenamiento.
+Las medidas se tomarán en una plataforma web, TrainEase, proporcionando un espacio digital donde los usuarios puedan acceder fácilmente a una variedad de trainers físicos y reservar sesiones de entrenamiento.
 
 ###### Who? - ¿Quién?
 ###### ¿Quién lo utilizará? ¿Quién es el cliente de este producto?
@@ -295,7 +295,7 @@ El número de personas beneficiadas dependerá de la adopción de la plataforma.
 
 ###### **Problem Statement:**
 
-El objetivo de TrainEase es proporcionar una solución integral y centralizada para la búsqueda, reserva y coordinación de sesiones de entrenamiento personalizado con entrenadores físicos certificados.
+El objetivo de TrainEase es proporcionar una solución integral y centralizada para la búsqueda, reserva y coordinación de sesiones de entrenamiento personalizado con trainers físicos certificados.
 
 El problema radica en la dificultad que enfrentan las personas para encontrar y reservar sesiones con personal trainers que se ajusten a sus necesidades específicas de fitness debido a la falta de una plataforma centralizada y fácil de usar.
 
@@ -312,7 +312,7 @@ En consecuencia, muchas personas experimentan obstáculos en su camino hacia la 
 
 **Nuestros clientes serán** personas que buscan mejorar su salud y condición física, valorando la conveniencia y personalización que ofrecemos en la búsqueda y reserva de trainers.
 
-**El valor más importante que un cliente quiere de nuestros servicios** es la capacidad de encontrar entrenadores confiables que los ayuden a alcanzar sus metas fitness de manera efectiva.
+**El valor más importante que un cliente quiere de nuestros servicios** es la capacidad de encontrar trainers confiables que los ayuden a alcanzar sus metas fitness de manera efectiva.
 
 **El cliente también va a obtener** transparencia en la información de cada entrenador, flexibilidad en las opciones de entrenamiento y una experiencia de usuario intuitiva en nuestra plataforma.
 
@@ -324,7 +324,7 @@ En consecuencia, muchas personas experimentan obstáculos en su camino hacia la 
 
 **Vamos a tener ventaja frente a nuestra competencia debido a** que ofrecemos una experiencia de usuario más intuitiva y la flexibilidad para ofrecer sesiones presenciales y virtuales con trainers calificados.
 
-**El mayor riesgo del servicio es no satisfacer** las expectativas de los usuarios en términos de calidad de los entrenadores o la experiencia en la plataforma.
+**El mayor riesgo del servicio es no satisfacer** las expectativas de los usuarios en términos de calidad de los trainers o la experiencia en la plataforma.
 
 **Lo resolveremos realizando** un riguroso proceso de selección y verificación de trainers, y obteniendo retroalimentación constante de los usuarios para mejorar nuestra plataforma.
 
@@ -333,11 +333,11 @@ En consecuencia, muchas personas experimentan obstáculos en su camino hacia la 
 
 ###### **¿Quién es el usuario?**
 
-El usuario es cualquier persona interesada en mejorar su salud y condición física a través de sesiones de entrenamiento personalizado con entrenadores físicos calificados. 
+El usuario es cualquier persona interesada en mejorar su salud y condición física a través de sesiones de entrenamiento personalizado con trainers físicos calificados. 
 
 ###### **¿Qué problemas tiene nuestro producto? ¿Qué problemas resuelve?**
 
-Nuestro producto aborda la dificultad que enfrentan las personas al encontrar y reservar sesiones de entrenamiento personalizado con entrenadores físicos. Al simplificar este proceso a través de una plataforma centralizada, TrainEase resuelve los problemas de falta de información, dificultad para coordinar horarios y la incomodidad de buscar individualmente a través de múltiples fuentes.
+Nuestro producto aborda la dificultad que enfrentan las personas al encontrar y reservar sesiones de entrenamiento personalizado con trainers físicos. Al simplificar este proceso a través de una plataforma centralizada, TrainEase resuelve los problemas de falta de información, dificultad para coordinar horarios y la incomodidad de buscar individualmente a través de múltiples fuentes.
 
 ###### **¿Qué características son importantes?**
 
@@ -360,9 +360,9 @@ Nuestro producto debe tener un diseño limpio y moderno que refleje la seriedad 
 
 ###### **Feature Assumptions:**
 
-**Creemos que** ofrecer perfiles detallados de entrenadores, incluyendo su experiencia, especialización y reseñas, ayudará a los usuarios a tomar decisiones informadas.
+**Creemos que** ofrecer perfiles detallados de trainers, incluyendo su experiencia, especialización y reseñas, ayudará a los usuarios a tomar decisiones informadas.
 
-**Creemos que** los filtros de búsqueda avanzados, como ubicación y disponibilidad, permitirán a los usuarios encontrar rápidamente entrenadores que se ajusten a sus necesidades.
+**Creemos que** los filtros de búsqueda avanzados, como ubicación y disponibilidad, permitirán a los usuarios encontrar rápidamente trainers que se ajusten a sus necesidades.
 
 **Creemos que** un sistema de reserva intuitivo y un calendario integrado simplificarán la coordinación de horarios y la reserva de sesiones.
 
@@ -372,7 +372,7 @@ Nuestro producto debe tener un diseño limpio y moderno que refleje la seriedad 
 ##### 1.2.2.3 Lean UX Hypothesis Statements
 * **Hypothesis Statement 01:**
 
-  **Creemos que** al ofrecer perfiles detallados de entrenadores, los usuarios tomarán decisiones más informadas. 
+  **Creemos que** al ofrecer perfiles detallados de trainers, los usuarios tomarán decisiones más informadas. 
 
   **Sabremos** que esta hipótesis es válida
 
@@ -380,7 +380,7 @@ Nuestro producto debe tener un diseño limpio y moderno que refleje la seriedad 
 
 * **Hypothesis Statement 02:**
  
-  **Creemos que** al implementar filtros de búsqueda avanzados, los usuarios podrán encontrar rápidamente entrenadores que se ajusten a sus necesidades.
+  **Creemos que** al implementar filtros de búsqueda avanzados, los usuarios podrán encontrar rápidamente trainers que se ajusten a sus necesidades.
 
   **Sabremos** que esta hipótesis es válida 
 
@@ -401,3 +401,17 @@ Nuestro producto debe tener un diseño limpio y moderno que refleje la seriedad 
   **Sabremos** que esta hipótesis es válida 
 
   **Cuando** observemos un aumento del 30% en la asistencia a las sesiones programadas y una disminución del 60% en el número de sesiones canceladas dentro de un mes después de la implementación de esta función.
+
+##### 1.2.2.4 Lean UX Canvas
+
+<img src="https://cdn.discordapp.com/attachments/1025767455454412901/1225326964009865257/image.png?ex=6620b9a9&is=660e44a9&hm=d4683005da3eda19281f722c20f885e71ab093dc49868d7291bb82a9dd74c665&">
+
+### 1.3. Segmentos objetivos
+
+* <strong>Segmento Objetivo (Cliente):</strong>
+
+Nos esforzamos por satisfacer las necesidades de los clientes que valoran la comodidad, la flexibilidad y los resultados personalizados en su proceso de cambio hacia una vida más saludable. Nuestro objetivo es ofrecerles una plataforma fácil de usar donde puedan encontrar trainers personales calificados que se ajusten a sus preferencias individuales y necesidades de horario, ayudándoles así a alcanzar sus objetivos de fitness de manera efectiva y sostenible.
+
+* <strong>Segmento Objetivo (Trainer):</strong>
+
+Nuestro objetivo es proporcionar una plataforma atractiva y efectiva para los trainers personales que desean ampliar su base de clientes y maximizar su alcance en el mercado. Queremos ofrecerles herramientas y recursos que les permitan mostrar sus servicios de manera efectiva, conectar con clientes potenciales y gestionar sus agendas de manera eficiente, ayudándoles así a aumentar su visibilidad y crecer en su carrera profesional.
