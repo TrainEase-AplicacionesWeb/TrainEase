@@ -470,13 +470,112 @@ TrainEase puede aprender de la estrategia de Amazon, que invirtió en Amazon Pri
 
 ### 2.2. Entrevistas
 
-### 2.2.1. Diseño de Entrevistas
-### 2.2.1. Registro de Entrevistas
-### 2.2.1. Análisis de Entrevistas
+#### 2.2.1. Diseño de Entrevistas
+
+A continuación, presentaremos algunas de las preguntas que se realizarán en las entrevistas a nuestros dos segmentos objetivos.
+
+- **Preguntas para los clientes que deseen contratar a un Trainer:**
+
+  1. ¿Cual es su nombre? y ¿Cuántos años tiene?
+  2. ¿En qué distrito resides?
+  3. ¿Cuál es tu nivel actual de actividad física?
+  4. ¿Realizas ejercicio en casa o asistes a un gimnasio?
+  5. ¿Que dispositvo utilizas regularmente para realizar el seguimiento de tu entrenamiento?
+  6. ¿Has tenido experiencias previas con entrenadores personales? y de ser así cómo fueron?
+  7. ¿En caso de que requieras un entrenador profesional, que buscas? y Qué esperas al realizar las sesiones con uno?
+  8. ¿Qué opinas de la idea de agendar una sesion con un entrenador personal en linea?
+  9. ¿Como es la atencion que esperas al perdir ayuda a un entrenador personal?
+  10. ¿Que te gustaria ver en una pagina de reservacion de sesiones con trainers?
+  11. ¿Qué opinas sobre la idea de visualizar información de cada entrenador, como su experiencia, especializaciones y disponibilidad?
+  12. ¿Te gustaría tener acceso a reseñas de otros usuarios sobre los entrenadores antes de hacer una reserva? 
+  13. ¿Qué te gustaría que nuestra plataforma ofrezca como servicio adicional y que puede mejorar?
+
+<br>
+
+- **Preguntas para los Trainers:**
+
+  1. ¿Cuál es su nombre? y ¿Cuántos años tiene?
+  2. ¿En qué distrito resides?
+  3. ¿Cuál es tu experiencia como entrenador personal y cuántos años llevas en la industria del fitness?
+  4. ¿Qué te motivó a convertirte en entrenador personal y qué aspectos disfrutas más de tu trabajo?
+  5. ¿Tienes experiencia con clientes de diferentes niveles de condición física?
+  6. ¿Cómo manejas la planificación de sesiones de entrenamiento para clientes con diferentes objetivos y niveles de condición física?
+  7. ¿Utilizas herramientas para seguir el progreso de tus clientes? Y de ser así ¿Qué herramientas utilizas?
+  8. ¿Cuál es tu enfoque para motivar a tus clientes y mantener su compromiso con el programa de entrenamiento?
+  9. ¿Estás abierto a la idea de ofrecer sesiones de entrenamiento en línea a través de plataformas como Zoom? ¿Por qué sí o por qué no?
+  10. ¿Qué aspectos consideras más importantes al establecer tarifas por tus servicios como entrenador personal?
+  11. ¿Cómo manejas la comunicación y la programación de sesiones con tus clientes?
+  12. ¿Qué estrategias utilizas para adquirir nuevos clientes y mantener relaciones sólidas con los existentes?
+  13. ¿Cómo gestionas tu agenda y priorizas tus compromisos profesionales como entrenador personal?
+  14. ¿Qué expectativas tienes de una plataforma como TrainEase para ayudarte a expandir tu base de clientes y optimizar tu negocio como entrenador personal?
+
+#### 2.2.2. Registro de Entrevistas
+
+- Entrevistas realizadas a clientes que deseen contratar a un Trainer:
+
+| **Entrevista 1** | **-** |
+| --- | --- |
+| **Edad** |  |
+| **Distrito** |  |
+| <img src="" width="100"/> |  |
+| **URL de la grabación** |  |
+| **Timming** |  |
+
+| **Entrevista 2** | **-** |
+| --- | --- |
+| **Edad** |  |
+| **Distrito** |  |
+| <img src="" width="100"/> |  |
+| **URL de la grabación** |  |
+| **Timming** |  |
+
+| **Entrevista 3** | **-** |
+| --- | --- |
+| **Edad** |  |
+| **Distrito** |  |
+| <img src="" width="100"/> |  |
+| **URL de la grabación** |  |
+| **Timming** |  |
+
+- Entrevistas realizadas a Trainers:
+
+| **Entrevista 1** | **-** |
+| --- | --- |
+| **Edad** |  |
+| **Distrito** |  |
+| <img src="" width="100"/> |  |
+| **URL de la grabación** |  |
+| **Timming** |  |
+
+| **Entrevista 2** | **-** |
+| --- | --- |
+| **Edad** |  |
+| **Distrito** |  |
+| <img src="" width="100"/> |  |
+| **URL de la grabación** |  |
+| **Timming** |  |
+
+| **Entrevista 3** | **-** |
+| --- | --- |
+| **Edad** |  |
+| **Distrito** |  |
+| <img src="" width="100"/> |  |
+| **URL de la grabación** |  |
+| **Timming** |  |
+
+#### 2.2.3. Análisis de Entrevistas
+
+**Análisis del segmento Cliente (Desean contratar a un Trainer):**
+
+
+
+**Análisis del segmento Trainers:**
+
+
 
 ### 2.3. Needfinding
 
-### 2.3.1. User Personas
+#### 2.3.1. User Personas
 
 **User Persona Cliente de TrainEase**
 
@@ -486,7 +585,7 @@ TrainEase puede aprender de la estrategia de Amazon, que invirtió en Amazon Pri
 
 ![Steve Pérez](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/bdd760ac-e033-4a2c-9c3b-f267fa1d3ce3)
 
-### 2.3.2. User Task Matrix
+#### 2.3.2. User Task Matrix
 
 Se presentan los User Task Matrix que contiene las tareas que los User Persona realizan para cumplir sus objetivos.
 
