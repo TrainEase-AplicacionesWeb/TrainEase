@@ -467,3 +467,81 @@ TrainEase puede considerar expandirse a nuevas áreas geográficas o asociarse c
 TrainEase puede aprender de la estrategia de Amazon, que invirtió en Amazon Prime en 2005 y cosechó los beneficios años después.
 
 **Táctica:** Desarrollar una visión a largo plazo y mantenerse enfocado en la mejora continua, incluso si los resultados no son inmediatos.
+
+### 2.2. Entrevistas
+
+### 2.2.1. Diseño de Entrevistas
+### 2.2.1. Registro de Entrevistas
+### 2.2.1. Análisis de Entrevistas
+
+### 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+**User Persona Cliente de TrainEase**
+
+![Alejandro Vivas](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/a6cbbf62-d357-4f2f-939a-6bb44e807b7a)
+
+**User Persona Trainer de TrainEase**
+
+![Steve Pérez](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/bdd760ac-e033-4a2c-9c3b-f267fa1d3ce3)
+
+### 2.3.2. User Task Matrix
+
+Se presentan los User Task Matrix que contiene las tareas que los User Persona realizan para cumplir sus objetivos.
+
+<table> <tr> <th></th>
+<td colspan="2">Trainer</td> <td colspan="2">Cliente</td> </tr> <tr> 
+<td>TASK</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> <td>FREQUENCY</td> <td>IMPORTANCE</td> </tr> <tr> 
+<td>Registrarse en la plataforma</td> <td>Always </td> <td>High</td> <td>Always </td> <td>High</td> </tr> <tr> 
+<td>Crear perfil</td> <td>Always </td> <td>High</td> <td>Always </td> <td>High</td> </tr> <tr>
+<td>Gestionar disponibilidad de horarios</td> <td>Always</td> <td>High</td> <td>Never</td> <td>Low</td> </tr> <tr>
+<td>Recibir notificaciones</td> <td>Sometimes</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td> </tr> <tr> 
+<td>Actualizar perfil</td> <td>Rarely</td> <td>Medium</td> <td>Rarely</td> <td>Low</td> </tr> <tr> 
+<td>Visualizar reseñas</td> <td>Always</td> <td>High</td> <td>Always</td> <td>High</td> </tr> <tr> 
+<td>Seguimiento del progreso</td> <td>Always</td> <td>High</td> <td>Always</td> <td>High</td> </tr> <tr> 
+<td>Pagos en línea</td> <td>Never</td> <td>Low</td> <td>Always</td> <td>Medium</td> </tr> <tr>  
+<td>Buscar trainers</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>High</td> </tr> <tr> 
+<td>Reservar sesiones</td> <td>Never</td> <td>Low</td> <td>Never</td> <td>Low</td> </tr> <tr> 
+<td>Realizar reseñas</td> <td>Never</td> <td>Low</td> <td>Always</td> <td>High</td> </tr> <tr>
+<td>Establecer metas</td> <td>Always</td> <td>Medium</td> <td>Always</td> <td>Medium</td> </tr> <tr>
+<td>Participar en desafios</td> <td>Never</td> <td>Low</td> <td>Sometimes</td> <td>Low</td> </tr> <tr>
+<td>Apartado de sesión online</td> <td>Sometimes</td> <td>Medium</td> <td>Sometimes</td> <td>Medium</td> </tr> <tr>
+
+**Trainer (Entrenador):**
+
+Las tareas de mayor frecuencia e importancia para los entrenadores son: "registrarse en la plataforma, crear y actualizar su perfil, visualizar reseñas, seguimiento del progreso y el apartado de sesión online". Esto destaca la importancia de mantener actualizada la información de su perfil, y estar al tanto de las interacciones con los clientes para destacar entre los demás trainers.
+
+La gestión de disponibilidad de horarios es una tarea siempre necesaria y de alta importancia para los trainers, ya que les permite una mejor organización de su agenda y aceptar solicitudes de próximas sesiones.
+
+**Cliente:**
+
+Las tareas de mayor frecuencia e importancia para los clientes son: "recibir notificaciones, visualizar reseñas, seguimiento del progreso y el apartado de sesión online". Estas tareas reflejan la necesidad de los clientes de interactuar con la plataforma de manera continua para elegir al mejor trainer junto con una mejor rutina y asesoría.
+
+La búsqueda de entrenadores y la reserva de sesiones tienen una frecuencia media y alta importancia para los clientes, lo que indica que la elección del entrenador y la programación de sesiones son aspectos importantes en su proceso de uso de la plataforma.
+
+**Coincidencias y Diferencias:**
+
+Ambos segmentos coinciden en la importancia de registrarse en visualizar reseñas y el apartado de sesión online.
+
+La principal diferencia radica en las tareas relacionadas con la gestión de disponibilidad de horarios, que es esencial para los entrenadores pero no tan relevante para los clientes.
+
+#### 2.3.3. User Journey Mapping
+
+**Journey Mapping Cliente de TrainEase**
+
+![Cliente - Journey Map](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/67e12378-14ac-4b64-90a1-e0725f0a9bf4)
+
+**Journey Mapping Trainer de TrainEase**
+
+![Trainer - Journey Map](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/a9bb7a77-ecf7-4a72-895e-3c41a230aaab)
+
+#### 2.3.4. Empathy Mapping
+
+**Empathy Mapping Cliente de TrainEase**
+
+![Cliente - Empathy map](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/62f23e91-c62a-45b6-a908-dd2fedb12996)
+
+**Empathy Mapping Trainer de TrainEase**
+
+![Trainer - Empathy map](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/8832e5e7-5429-4e9b-ab4f-0f3dfba3489c)
