@@ -647,7 +647,45 @@ La principal diferencia radica en las tareas relacionadas con la gestión de dis
 
 #### 2.3.5. As-is Scenario Mapping
 
+En el estado actual de TrainEase, los usuarios interesados en mejorar su salud y estado físico se enfrentan a varios desafíos al buscar y reservar sesiones de entrenamiento con trainers personales. Desde la búsqueda manual de trainers hasta la coordinación de horarios y la gestión de pagos, el proceso puede ser complicado y consume mucho tiempo tanto para los usuarios como para los trainers. Además, los trainers pueden experimentar dificultades para promocionar sus servicios y acceder a oportunidades de desarrollo profesional.
+
+**As-Is Cliente de TrainEase**
+
+![As-Is Cliente](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/13a07198-10dd-44e9-bae6-9c42ef2fda3c)
+
+**As-Is Trainer de TrainEase**
+
+![As-Is Trainer](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/39af328c-48f0-4890-ad85-e3e0d6c15df3)
+
 ### 2.4. Ubiquitous Language
+
+El Ubiquitous Language se refiere a un conjunto de términos y conceptos compartidos y comprendidos por todos los miembros del equipo de desarrollo, así como por los usuarios finales. Estos términos incluyen elementos clave de la plataforma TrainEase, como "Usuario/Cliente", "Trainer Personal", "Manager System", "Session Management", "Payment", "Data Management", entre otros. Al utilizar este lenguaje común, aseguramos una comunicación clara y efectiva entre todos los involucrados en el desarrollo, desde diseñadores y desarrolladores hasta stakeholders y usuarios finales. Esto ayuda a minimizar los malentendidos, a alinear las expectativas y a garantizar que todos estén trabajando hacia los mismos objetivos para el éxito del proyecto.
+
+1. TrainEase: La plataforma en línea que conecta a usuarios/clientes con trainers personales para sesiones de entrenamiento personalizado.
+
+2. Usuario/Cliente: Individuos interesados en mejorar su salud y estado físico que utilizan TrainEase para encontrar y reservar sesiones de entrenamiento con trainers personales.
+
+3. Trainer Personal: Profesionales del fitness registrados en TrainEase que ofrecen servicios de entrenamiento personalizado a los usuarios/clientes.
+
+4. Manager System: El sistema centralizado que gestiona y coordina todas las funciones y características de TrainEase, asegurando un funcionamiento fluido y eficiente de la plataforma.
+
+5. Landing Page: La página principal de TrainEase, diseñada para atraer y convertir visitantes en usuarios registrados y clientes potenciales.
+
+6. API Gateway: El punto de entrada principal para todas las solicitudes de API en TrainEase, facilitando la comunicación entre diferentes componentes del sistema.
+
+7. Sign Up: El proceso de registro que permite a los usuarios/clientes y trainers personales crear cuentas en TrainEase para acceder a sus servicios.
+
+8. Account Management Process: El conjunto de herramientas y funciones que permiten a los usuarios/clientes y trainers personales gestionar y mantener sus cuentas en TrainEase, incluyendo información personal, preferencias y configuraciones.
+
+9. Session Management: La funcionalidad que facilita la programación, gestión y seguimiento de sesiones de entrenamiento entre usuarios/clientes y trainers personales a través de TrainEase.
+
+10. Trainer & Service Management: La sección de la plataforma que permite a los trainers personales gestionar su perfil profesional, servicios ofrecidos, disponibilidad y tarifas.
+
+11. Payment: El sistema integrado de TrainEase que facilita el proceso de pago para las sesiones de entrenamiento, asegurando transacciones seguras y eficientes entre usuarios/clientes y trainers personales.
+
+12. Data Management: El conjunto de herramientas y procesos utilizados para recopilar, almacenar, organizar y gestionar datos de usuarios, entrenamientos, transacciones y otros aspectos relevantes de TrainEase.
+
+13. Database: La infraestructura de almacenamiento de datos subyacente que soporta toda la información y funcionalidad de TrainEase, asegurando la disponibilidad y integridad de los datos en todo momento.
 
 ## Capítulo 3: Requirements Specification
 
