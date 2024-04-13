@@ -691,6 +691,16 @@ El Ubiquitous Language se refiere a un conjunto de términos y conceptos compart
 
 ### 3.1. To-Be Scenario Mapping
 
+En el futuro deseado de TrainEase, la plataforma se convertirá en un ecosistema completo y eficiente que simplifica y mejora la experiencia tanto para los usuarios como para los trainers. Los usuarios encontrarán fácilmente trainers adecuados, reservarán sesiones de manera rápida y gestionarán sus progresos de forma transparente, mientras que los trainers tendrán acceso a una base de clientes más amplia, herramientas de gestión simplificadas y oportunidades de desarrollo profesional integradas.
+
+**To-be Cliente de TrainEase**
+
+![To-Be Cliente](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/9a811787-f628-4745-8105-14e859994857)
+
+**To-be Trainer de TrainEase**
+
+![To-Be Trainer](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/81f594ae-0365-4596-ac27-f28eae5af9bc)
+
 ### 3.2. User Stories
 
 Las user stories se emplean para convertir las visiones informales de los clientes sobre el producto en requisitos de software vitales para su creación. Cada una de estas historias describe una función particular que el usuario requiere para lograr sus metas. Redactadas de forma simple y centradas en las necesidades del usuario, las user stories son herramientas clave en el desarrollo de TrainEase. A continuación, se detallan algunas de estas historias específicas:
