@@ -2,12 +2,7 @@
 
 ### Universidad Peruana de Ciencias Aplicadas
 
-<tr>
-    <td>
-      <img src="https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/78693e18-d839-4650-98c8-d96b25841c6e
-">
-    </td>
-</tr>
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/bd4c4fb7-9cfc-412b-ae51-4a9126156a2b)
 
 #### Ingeniería de Software
 
@@ -755,6 +750,14 @@ Las user stories se emplean para convertir las visiones informales de los client
 |TS10|Get Pago|**Como** desarrollador que está encargado de la aplicación de TrainEase, **quiero** obtener los datos de un Pago mediante una API **para** visualizar los datos de un Pago en específico.|**Escenario:**<br>Dado que tengo acceso a la API de obtención de información de pagos<br>Cuando solicito la información de pagos de un cliente<br>Entonces recibo la información de los pagos en el formato esperado.||
 
 ### 3.3. Impact Mapping
+
+**Segmento Cliente**
+
+![Cliente - Impact Map](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/03a5abe8-b959-4a04-bf23-81f61f87245b)
+
+**Segmento Trainer**
+
+![Trainer - Impact Map](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/4616e750-216a-4139-a0a2-9141c2c94972)
 
 ### 3.4. Product Backlog
 
