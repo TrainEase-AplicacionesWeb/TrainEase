@@ -513,65 +513,71 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 
 - Entrevistas realizadas a clientes que deseen contratar a un Trainer:
 
-| **Entrevista 1** | **-** |
+| **Entrevista 1** | **Hiro Cárdenas** |
 | --- | --- |
-| **Edad** |  |
-| **Distrito** |  |
-| <img src="" width="100"/> |  |
-| **URL de la grabación** |  |
-| **Timming** |  |
+| **Edad** | 21 |
+| **Distrito** | Magdalena del Mar |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/d6992f0a-08aa-4f3c-96dc-d65301e1143d)
+| Durante la entrevista Hiro nos comenta que su actividad física últimamente anda alta ya que hace ejercicio en casa. También dice que no ha tenido experiencias con entrenadores personales, pero en el caso que necesite, busca que el entrenador le de asesoramiento y si hace bien los ejercicios. Nos comenta que le parece buena idea una página para reservar sesiones con trainers de forma online. Y que le gustaría ver en la pagina las reseñas de otros usuarios y ver información del entrenador para poder reservar una sesión. |
+| **URL de la grabación** | [Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f |
+| **Timming** | 00:00 - 03:44 |
 
-| **Entrevista 2** | **-** |
+| **Entrevista 2** | **Moises Echevarría** |
 | --- | --- |
-| **Edad** |  |
-| **Distrito** |  |
-| <img src="" width="100"/> |  |
-| **URL de la grabación** |  |
-| **Timming** |  |
+| **Edad** | 20 |
+| **Distrito** | Magdalena del Mar |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/5fa889eb-b76e-4849-971a-0a4c0fb34676)
+ | Durante la entrevista Moises nos comenta que su actividad física es muy alta ya que va al gimnasio para hacer ejercicio. También dice que utiliza un aplicativo para realizar el seguimiento de su entrenamiento. Nos dice que ha tenido experiencias con entrenadores personales, y busca que el entrenador que escoja sepa sobre ganancias muscular. Nos comenta que le parece buena idea una página para reservar sesiones con trainers en línea. Y que le gustaría ver en la página las reseñas de otros usuarios y ver información del entrenador para poder reservar una sesión. |
+| **URL de la grabación** | [Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f |
+| **Timming** | 03:45 - 07:35 |
 
-| **Entrevista 3** | **-** |
+| **Entrevista 3** | **Adriana Valdivia** |
 | --- | --- |
-| **Edad** |  |
-| **Distrito** |  |
-| <img src="" width="100"/> |  |
-| **URL de la grabación** |  |
-| **Timming** |  |
+| **Edad** | 21 |
+| **Distrito** | Breña |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/f7db4ae5-93aa-43d8-bcb6-0d2d20e394b0)
+ | Durante la entrevista Adriana nos comenta que su actividad física es media y que realiza ejercicio en casa. También dice que su forma de realizar el seguimiento de su entrenamiento es por videos. Nos dice que no ha tenido experiencias con entrenadores personales, y busca que el entrenador que escoja sea paciente y que sea experto. Nos comenta que le parece buena idea una página para reservar sesiones con trainers en línea.  |
+| **URL de la grabación** | [Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f |
+| **Timming** | 07:36 - 12:58 |
 
 - Entrevistas realizadas a Trainers:
 
-| **Entrevista 1** | **-** |
+| **Entrevista 1** | **Julio Pérez** |
 | --- | --- |
-| **Edad** |  |
-| **Distrito** |  |
-| <img src="" width="100"/> |  |
-| **URL de la grabación** |  |
-| **Timming** |  |
+| **Edad** | 28 |
+| **Distrito** | Jesús María |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/35c2a3bf-f737-4098-95af-873c3a3e7799)
+ | Julio cuenta con 3 años de experiencia en el rubro de Trainer Fitness, menciona que la labor de un trainer es empoderar a sus clientes para que puedan mejorar su imagen física, un desafio que presenta es la demanda de tiempo y actividades. Julio indica que para calcular la tarifa depende de la calidad del servicio, experiencia y comunicación con los clientes. Indica que se siente disgustado porque no le gusta involucrar su número personal con sus clientes. |
+| **URL de la grabación** |[Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f|
+| **Timming** | 13:00 - 20:51 |
 
-| **Entrevista 2** | **-** |
+| **Entrevista 2** | **Eugenio Machare** |
 | --- | --- |
-| **Edad** |  |
-| **Distrito** |  |
-| <img src="" width="100"/> |  |
-| **URL de la grabación** |  |
-| **Timming** |  |
+| **Edad** | 24 |
+| **Distrito** | Breña |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/ed2c97de-25f7-4ac1-8b8e-c32003395575)
+ | Eugenio informa que como aspirante a entrenador personal, lleva un año en la industria del fitness, brindando sesiones de asesoría y adquiriendo experiencia práctica. Su motivación proviene de la pasión por el bienestar y la satisfacción de ayudar a otros a alcanzar sus metas de salud. Aunque su experiencia es limitada, he trabajado con clientes de diferentes niveles de condición física, adaptando cada sesión según sus necesidades individuales. Utiliza métodos simples para el seguimiento del progreso y se esfuerzo por mantener a mis clientes motivados y comprometidos. Está abierto a ofrecer sesiones en línea y establecer tarifas justas mientras prioriza el crecimiento profesional y la gestión eficiente del tiempo. |
+| **URL de la grabación** |[Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f|
+| **Timming** | 20:51 - 26:30 |
 
-| **Entrevista 3** | **-** |
+| **Entrevista 3** | **Edwin Santiago** |
 | --- | --- |
-| **Edad** |  |
-| **Distrito** |  |
-| <img src="" width="100"/> |  |
-| **URL de la grabación** |  |
-| **Timming** |  |
+| **Edad** | 25 |
+| **Distrito** | Breña |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/38bf15b1-ba99-4a39-b8df-b283dc78bb76)
+| Edwin Santiago con un año de experiencia como entrenador personal, menciona que su motivación radica en su pasión por el fitness y ayudar a otros a alcanzar sus metas. Utiliza herramientas para seguir su progreso y mantener su compromiso. Está abierto a sesiones en línea y establecer tarifas justas. Gestiona eficientemente la comunicación y programación de sesiones, y utiliza estrategias de marketing para adquirir y retener clientes. Busco en TrainEase herramientas efectivas para optimizar mi negocio y alcanzar más éxito. |
+| **URL de la grabación** |[Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f|
+| **Timming** | 26:30 - 30:29 |
 
 #### 2.2.3. Análisis de Entrevistas
 
 **Análisis del segmento Cliente (Desean contratar a un Trainer):**
 
-
+Las entrevistas revelan un interés generalizado en una plataforma en línea para reservar sesiones con entrenadores personales. Tanto Hiro, Moisés y Adriana muestran disposición a utilizar este servicio, destacando la importancia de acceder a reseñas de otros usuarios y obtener información detallada sobre los entrenadores antes de hacer una reserva. Aunque difieren en la intensidad de su actividad física y en sus experiencias previas con entrenadores, todos comparten la idea de buscar asesoramiento y corrección en sus ejercicios, así como la necesidad de un entrenador que se adapte a sus necesidades y conocimientos específicos en el caso de Moisés. En resumen, la conveniencia, la transparencia y la calidad son elementos clave que valoran en una plataforma para contratar entrenadores personales en línea.
 
 **Análisis del segmento Trainers:**
 
-
+Las tres entrevistas muestran similitudes en cuanto a la motivación por el fitness y el deseo de ayudar a otros a alcanzar sus objetivos de salud. Además, los tres candidatos están abiertos a ofrecer sesiones en línea y se esfuerzan por establecer tarifas justas para sus servicios. Sin embargo, Julio Pérez destaca desafíos específicos relacionados con la demanda de tiempo y actividades, mientras que Eugenio Machare y Edwin Santiago ponen énfasis en la gestión eficiente del tiempo y el uso de estrategias de marketing para adquirir y retener clientes.
 
 ### 2.3. Needfinding
 
