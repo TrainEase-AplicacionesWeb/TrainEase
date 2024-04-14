@@ -794,18 +794,147 @@ Las user stories se emplean para convertir las visiones informales de los client
 
 ### 4.1. Style Guidelines
 #### 4.1.1. General Style Guideline
+
+El “Style Guidelines” es una referencia que establece reglas y pautas para la redacción, diseño o presentación de diversos tipos de trabajos creativos, como documentos, contenido web o software. Los parámetros específicos implementados en la estructura del proyecto se describen a continuación.
+
+Branding: Brand Overview:
+
+FitFlow	
+
+El nombre de nuestra plataforma de formación es “TrainEase”. Elegimos este nombre porque nuestro software facilita conectar a los usuarios que buscan mejorar su salud y estado físico con entrenadores personales. Nuestro logotipo es llamativo, está diseñado para ser fácilmente reconocible y memorable, lo que refleja nuestra misión de hacer que la experiencia de entrenamiento sea accesible y atractiva a primera vista.
+
+**Colores**
+
+En nuestro proyecto TrainEase, la selección de colores juega un papel fundamental en la creación de una experiencia visualmente atractiva y efectiva para nuestros usuarios. Hemos optado por una combinación audaz y dinámica de amarillo y negro para transmitir energía, vitalidad y profesionalismo.
+La combinación de amarillo y negro se ha diseñado cuidadosamente para crear un equilibrio visual en nuestra plataforma. El contraste entre estos dos colores permite que los elementos clave se destaquen de manera efectiva, mientras que el diseño general mantiene una apariencia moderna y atractiva.
+En conjunto, la elección de colores de TrainEase refleja nuestra misión de proporcionar una experiencia de entrenamiento personalizada y estimulante para nuestros usuarios, donde la energía y la profesionalidad se combinan de manera armoniosa.
+
+**Tipografía:**
+
+En cuanto a la tipografía, hemos decidido que " Poppins" será la fuente de letra principal para implementarlo tanto en el Heading como en el Body de la Landing Page y la Web Application.
+
+![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/c3bdb312-1530-4c98-9f4d-e032ff120c92)
+
 #### 4.1.2. Web Style Guidelines
 
+El enfoque de TrainEase es de ser una aplicación que transmita energía, vitalidad y profesionalismo para que los usuarios no se pierdan al navegar dentro de nuestra plataforma web. Se ha priorizado el diseño de los horarios y el menu de inicio. Además, se utilizará componentes de Angular Material para construir la Web Application.
+
+**Botones:**
+
+Utilizados para acciones interactivas, como "Reservar ahora", "Iniciar sesión", "Registrarse" y "Visualizar entrenadores”. Permiten a los usuarios realizar acciones específicas, como enviar formularios, guardar preferencias o realizar transiciones a diferentes secciones de la aplicación.
+
+**Tablas:**
+
+Se utiliza para mostrar información tabular, como una lista de entrenadores disponibles, sus especialidades, precios y horarios. También facilitan la comparación y visualización de datos estructurados, ayudando a los usuarios a tomar decisiones informadas con respecto a la selección de un entrenador personal.
+
+**Imágenes:**
+
+Se utilizan para ilustrar visualmente el contenido, como fotos de entrenadores personales, instalaciones de entrenamiento, testimonios de clientes, ejercicios recomendados y ayudan a crear una experiencia visual atractiva y a transmitir la marca y el estilo de vida asociados con TrainEase.
+
+**Tarjetas:**
+
+Utilizadas para presentar contenido de manera modular y visualmente atractiva, como perfiles de entrenadores, testimonios de clientes y servicios ofrecidos. Permiten a los usuarios explorar información de manera rápida y eficiente, haciendo que la navegación sea más intuitiva y atractiva.
+
+**Steppers:**
+
+En TrainEase se utilizan “steppers” para facilitar la navegación e interacción del usuario a través de procesos secuenciales, como seleccionar filtros para encontrar entrenadores personales o realizar de forma ordenada y guiada los pasos necesarios para registrarse o reservar servicios de formación. Estos elementos ayudan a los usuarios a navegar intuitivamente por los diferentes pasos, lo que garantiza una experiencia de usuario fluida y organizada.
+
+
 ### 4.2. Information Architecture
+
+TrainEase ofrece una variedad de funciones diseñadas para beneficiar tanto a los usuarios que buscan mejorar su estado físico como a los entrenadores   personales. Se han creado interfaces específicas y completas para cada tipo de usuario con el objetivo de garantizar una experiencia óptima al interactuar con la plataforma. Cada sección de la aplicación web proporcionará información útil y clara, evitando así sobrecargar al usuario al navegar por el sitio.
+
 #### 4.2.1. Organization Systems
+
+En TrainEase, se aplicarán diversos sistemas de organización de información para garantizar una experiencia fluida y efectiva para los usuarios:
+Organización Visual del Contenido:
+
+Jerárquica (Visual Hierarchy): Se utilizará para presentar el contenido de manera jerárquica, priorizando la información más importante y relevante para los usuarios. Por ejemplo, los titulares y las llamadas a la acción se destacarán visualmente para captar la atención del usuario.
+
+Organización Secuencial (Step-by-Step to Accomplish): Se implementará en procesos secuenciales, como el registro de usuarios o la reserva de sesiones de entrenamiento. Los usuarios serán guiados paso a paso a través de estas acciones para facilitar su realización.
+
+**Esquemas de Categorización de Contenido:**
+
+Alfabético: Se utilizará para organizar el catálogo de entrenadores por orden alfabético, facilitando la búsqueda de profesionales específicos.
+
+Por Tópicos: Se aplicará para agrupar entrenadores según sus especialidades, como pérdida de peso, ganancia de músculo o entrenamiento de resistencia.
+
+Según Audiencia: Se empleará para personalizar la experiencia de usuario, ofreciendo contenido relevante según las preferencias y necesidades específicas de cada usuario, ya sea que busquen entrenamiento presencial o en línea a través de Zoom.
+
 #### 4.2.2. Labeling Systems
+
+En TrainEase, se utilizarán sistemas de etiquetado que priorizan la simplicidad y la claridad para evitar confusiones entre los visitantes y usuarios:
+
+**Etiquetas Clave:**
+
+Se utilizarán etiquetas descriptivas y concisas para representar conjuntos importantes de información, como "Entrenadores", "Servicios", "Reservas" y "Perfil".
+
+Estas etiquetas servirán como puntos de acceso rápido a las secciones principales de la plataforma, facilitando a los usuarios la navegación y la búsqueda de información.
+
+**Asociaciones Claras:**
+
+Se establecerán asociaciones claras entre las etiquetas y la información correspondiente para garantizar una comprensión intuitiva por parte de los usuarios.
+Por ejemplo, la etiqueta “Entrenadores” se asociará a la lista de entrenadores disponibles, mientras que “Servicios” dirigirá a los usuarios a los diferentes programas de entrenamiento ofrecidos.
+
 #### 4.2.3. SEO Tags and Meta Tags
+
+Título:
+Es una etiqueta que sirve para que los motores de búsqueda, ya que suele influir en el algoritmo búsqueda de una manera significativa.
+
+<title>TrainEase</title>
+
+**Codificación de caracteres:**
+
+Esta etiqueta nos permite mostrar los caracteres especiales en la web.
+
+<meta charset="UTF-8" />
+
+**Descripción:**
+
+Esta meta etiqueta nos sirve para proporcionar un resumen del contenido de la página web.
+
+<meta name="description" content="TrainEase is a web application focused on connecting people looking to improve their fitness with personal trainers."/>
+**Palabras clave:**
+
+En esta etiqueta se pone las palabras claves relacionadas con el tema o contenido de la página web.
+
+<meta name="keywords" content="process, application, records, trainers, sessions, training"/>
+
+**Autor y Derechos de Autor:**
+
+Se utiliza para registrar la información del autor de la página web y la propiedad y derechos de autor.
+
+<meta name="author" content=" TrainForce "/>
+<meta name="copyright" content="Copyright TrainForce team" />
+
 #### 4.2.4. Searching Systems
+
+En TrainEase, hemos implementado opciones de búsqueda intuitivas que permiten a los usuarios encontrar rápidamente entrenadores personales según sus necesidades. Los usuarios pueden buscar por palabras clave, como nombre del entrenador o especialidades de entrenamiento, y aplicar filtros avanzados según la ubicación, la disponibilidad de horarios y los precios. Tras la búsqueda, los resultados se presentan de forma clara y ordenada, mostrando información relevante de cada entrenador para facilitar la toma de decisiones.
+
 #### 4.2.5. Navigation Systems
+
+Los sistemas de navegación principales son un conjunto de herramientas de navegación específicas destinadas a guiar a los usuarios a través de la Landing page. Con menús desplegables intuitivos que brindan acceso rápido a funciones clave, como buscar capacitadores y reservar sesiones, así como una barra de búsqueda destacada para explorar el contenido con más detalle, brindando a los usuarios una experiencia de navegación centrada en sus necesidades.
 
 ### 4.3. Landing Page UI Design
 #### 4.3.1. Landing Page Wireframe
+
+**Landing Page Wireframe View Web Browser**
+
+![Slide 16_9 - 2](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/21961343-c266-400a-a7a2-de93852a1f2f)
+
+**Landing Page Wireframe View Mobile Browser**
+
+![DiagramaJuegoTF](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/6fedbaa0-dd1e-4507-9c05-c74278e1e823)
+
 #### 4.3.2. Landing Page Mock-up
+
+**Landing Page Mock-Up View Web Browser**
+
+![Slide 16_9 - 1](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/41575e53-0ad2-49bb-ad62-385b5f87cafa)
+
+**Landing Page Mock-Up View Mobile Browser**
+
+![DiagramaJuegoTF (1)](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/4b6c687b-e7ce-47f0-b431-9dfe9e750355)
 
 #### 4.4. Web Applications UX/UI Design
 #### 4.4.1. Web Applications Wireframes
