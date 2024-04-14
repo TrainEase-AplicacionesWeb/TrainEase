@@ -761,7 +761,7 @@ Las user stories se emplean para convertir las visiones informales de los client
 
 **Segmento Cliente**
 
-![Cliente - Impact Map](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/03a5abe8-b959-4a04-bf23-81f61f87245b)
+![Cliente - Impact Map](https://github.com/Integradis-OpenSource/TFDocOpenSource/assets/89022092/ba9a2939-e402-48b7-838e-a15fe2447343)
 
 **Segmento Trainer**
 
