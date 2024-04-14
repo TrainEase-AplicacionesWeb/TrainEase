@@ -4,7 +4,8 @@
 
 <tr>
     <td>
-      <img src="https://media.discordapp.net/attachments/1219442976061653025/1221319011900456980/UPC_logo.png?ex=661224f7&is=65ffaff7&hm=151e3178ae9fe3e0ee4951cca67ebff7105389c71326f393b6f23924eadc3118&=&format=webp&quality=lossless">
+      <img src="https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/78693e18-d839-4650-98c8-d96b25841c6e
+">
     </td>
 </tr>
 
@@ -55,8 +56,8 @@ Para la entrega del TB1 se designó tareas a cada integrente, el cual se podrá 
 
 | Miembro                          | Responsabilidad |
 | -------------------------------- | --------------- |
-| Luiggi Jeremy Antonio Loayza     | Tarea 1         |
-| Brayan Stiven Gamboa Delgado     | Tarea 2         |
+| Luiggi Jeremy Antonio Loayza     | Descripcion del Startup, Lean UX Canvas, Segmentos Objetivos, Entrevistas segmento Trainer, User Persona, User Journey Mapping, As-is Scenario Mapping, To-Be Scenario Mapping, Impact Mapping, Landing Page UI Design, Web Application UX/UI Design|
+| Brayan Stiven Gamboa Delgado     | Antecedentes y problematica,Lean UX Problem Statement, Lean UX Assumptions, Competidores, Entrevista segmento Clientes, User Persona, User Stories, Product Backlog, Style Guidelines, Information Architecture, Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design, Implemantacion del Capitulo 5 |
 
 Es importante mencionar que durante la elaboración del informe se realizaron commits respectivos a cada tarea asignada, con el fin de mantener un control de versiones y colaboración en tiempo real.
 
@@ -80,31 +81,30 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
       <th>Acciones Realizadas</th>
       <th>Conclusiones</th>
     </tr>
-    <tr>
-          <td>Comunica oralmente la efectividad a diferentes rangos de audiencia.</td>
-          <strong>Jeremy, Antonio</strong><br>
-          <strong>TB1:</strong><br>
-          Se planteó el desarrollo del startup junto al Lean UX Canvas, entrevistas/análisis, User Task Matrix  y To-Be Scenario Mapping.
-          <br><br>
+  <tr>
+    <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
+    <td>
+          <strong>Antonio, Jeremy</strong><br>
+          <strong>TB1</strong><br>
+          Se planteó el desarrollo del startup junto al Lean UX Canvas, Segmentos Objetivos, Entrevistas segmento Trainer, User Persona, User Journey Mapping, As-is Scenario Mapping, To-Be Scenario Mapping, Impact Mapping, Landing Page UI Design, Web Application UX/UI Design.<br><br>
           <strong>Gamboa, Brayan</strong><br>
-          <strong>TB1:</strong><br>
-          Investigué sobre los posibles competidores y sus caracteristicas, también las estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
-        </td>
-        <td>
-        //DEFINICION<br><br>
-        </td>
+          <strong>TB1</strong><br>
+          Investigué sobre los posibles competidores y sus caracteristicas, también las estrategias y tácticas frente a competidores, los Antecedentes y problematicas,Lean UX Problem Statement, Lean UX Assumptions, Entrevista segmento Clientes, User Persona, User Stories, Product Backlog, Style Guidelines, Information Architecture,Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design y Implemantacion del Capitulo 5<br><br>
+    </td>
+    <td>Como equipo, logramos establecer medios de comunicación eficientes mediante la aplicacion de Discord, para poder realizar una organización eficiente y de tal manera realizar una entrega de proyecto decente.<br><br></td>
+    </td><br>
   </tr>
   <tr>
     <td>Comunica por escrito con efectividad a diferentes rangos de audiencia.</td>
     <td>
-          <strong>Jeremy, Antonio </strong><br>
+          <strong>Antonio, Jeremy </strong><br>
           <strong>TB1</strong><br>
-          Se desarrolló la definición del startup junto a su misión y visión, se diseñó el Lean UX Canvas, se realizó la entrevista junto a su análisis, desarrollo User Task Matrix  y To-Be Scenario Mapping.<br><br>
+          Se desarrolló la definición del startup junto a su misión y visión, se diseñó el Lean UX Canvas, Segmentos Objetivos, Entrevistas segmento Trainer, User Persona, User Journey Mapping, As-is Scenario Mapping, To-Be Scenario Mapping, Impact Mapping, Landing Page UI Design, Web Application UX/UI Design.<br><br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
-          Realicé el cuadro de competidores, estrategias y tácticas frente a competidores y parte de los user stories.<br><br>
+          Realicé el cuadro de competidores, estrategias y tácticas frente a competidores, los Antecedentes y problematicas,Lean UX Problem Statement, Lean UX Assumptions, Entrevista segmento Clientes, User Persona, User Stories, Product Backlog, Style Guidelines, Information Architecture,Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design y Implemantacion del Capitulo 5.<br><br>
     </td>
-    <td>//DEFINICION<br><br></td>
+    <td>Como equipo,logramos desarrollar un trabajo digno, dado que seguimos con todo lo requerido para la elaboración del producto en el menor tiempo posible. El documento elaborado proporciona a las personas información detallada acerca del proyecto, incluyendo su desarrollo y las herramientas empleadas en su realización.<br><br></td>
     </td><br>
   </tr>
 </table>
