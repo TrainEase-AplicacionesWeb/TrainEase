@@ -794,3 +794,149 @@ Las user stories se emplean para convertir las visiones informales de los client
 |27|US027|Acceso al historial completo|Como usuario, quiero tener acceso a un historial completo de mis sesiones de entrenamiento, para mejorar mis próximos entrenamientos.|<p></p><p>5</p><p></p>|
 |28|US028|Acceso al historial del cliente|Como entrenador, quiero tener acceso al historial completo de entrenamiento de mis clientes, incluyendo detalles sobre sus sesiones anteriores y su progreso a lo largo del tiempo, para poder proporcionar un asesoramiento más personalizado y efectivo.|<p></p><p></p><p></p><p>5</p>|
 |29|US029|Establecimiento de metas para clientes|Como entrenador, quiero poder establecer metas de entrenamiento específicas para mis clientes y realizar un seguimiento de su progreso hacia esas metas, para poder adaptar sus planes de entrenamiento según sea necesario.|<p></p><p></p><p></p><p>3</p>|
+
+## Capítulo 4: Product Design
+
+### 4.1. Style Guidelines
+#### 4.1.1. General Style Guideline
+#### 4.1.2. Web Style Guidelines
+
+### 4.2. Information Architecture
+#### 4.2.1. Organization Systems
+#### 4.2.2. Labeling Systems
+#### 4.2.3. SEO Tags and Meta Tags
+#### 4.2.4. Searching Systems
+#### 4.2.5. Navigation Systems
+
+### 4.3. Landing Page UI Design
+#### 4.3.1. Landing Page Wireframe
+#### 4.3.2. Landing Page Mock-up
+
+#### 4.4. Web Applications UX/UI Design
+#### 4.4.1. Web Applications Wireframes
+#### 4.4.2. Web Applications Wireflow Diagrams
+#### 4.4.3. Web Applications Mock-ups
+#### 4.4.4. Web Applications User Flow Diagrams
+
+### 4.5. Web Applications Prototyping
+
+### 4.6. Domain-Driven Software Architecture
+Domain Driven Design es una metodología de diseño de software que se centra en comprender y modelar el núcleo del problema. Su objetivo es transferir la lógica inherente al dominio empresarial al código, integrando conceptos y reglas de negocio. Esta práctica fomenta una cooperación más estrecha entre equipos y facilita la adaptación del código a medida que evoluciona. Aunque requiere dedicación, su enfoque centrado en el dominio del problema lo convierte en un recurso valioso para desarrollar soluciones efectivas y sostenibles.
+
+#### 4.6.1. Software Architecture Context Diagram
+
+El diagrama de contexto muestra una vista de las relaciones entre el sistema de software TrainEase, los clientes, los trainers y el manager system.
+
+![1](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/c0b5d30c-f1bb-457c-a2a6-0ac551116e09)
+
+#### 4.6.2. Software Architecture Container Diagrams
+
+El diagrama de contenedores muestra una vista de las relaciones entre el landing page, el web application, el api Gateway y los bounded context que son parte de la ejecución del sistema de software TrainEase.
+
+![2](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/46276484-ecd9-4ec9-82fd-fbda87c0412c)
+
+#### 4.6.3. Software Architecture Components Diagrams
+
+Los diagramas de componentes muestran una vista de las relaciones de los componentes principales del sistema de software. Estos componentes detallan la implementación de los respectivos módulos en el programa.
+
+##### Sing up Bounded Context
+
+![3](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/04f9eab1-c9b0-4795-821d-b5631edd4016)
+
+#### Session Management Bounded Context
+
+![4](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/03b98825-3a7f-4712-b5d0-7e2e76ba120c)
+
+Link Structurizr: https://structurizr.com/share/90921/27146507-2f00-4f68-8a04-77c39aa7dd77
+
+### 4.7. Software Object-Oriented Design
+#### 4.7.1. Class Diagrams
+
+![Clase UML](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/52d0b19f-3726-4d67-8e16-f6c7eed202f5)
+
+#### 4.7.2. Class Dictionary
+
+* Class User\_client
+
+|Atributo|Tipo|Descripción|
+| :- | :- | :- |
+|id|int|Identificador del cliente|
+|name|String|Nombre del cliente|
+|lastName|String|Apellido del cliente|
+|email|String|Correo electrónico del cliente|
+|password|String|Contraseña del cliente|
+
+* Class User\_trainer
+
+|Atributo|Tipo|Descripción|
+| :- | :- | :- |
+|id|int|Identificador del entrenador|
+|name|String|Nombre del entrenador|
+|lastName|String|Apellido del entrenador|
+|email|String|Correo electrónico del entrenador|
+|phone|String|Número de teléfono del entrenador|
+|password|String|Contraseña del entrenador|
+
+* Class Session
+
+|Atributo|Tipo|Descripción|
+| :- | :- | :- |
+|id|int|Identificador de la sesión|
+|date|String|Fecha de la sesión|
+|hour|String|Hora de la sesión|
+|issue|String|Motivo de la sesión|
+|price|float|Precio de la sesión|
+|Trainer|User\_trainer|Veterinario que atenderá la sesión|
+|Services|String|Servicio al reservar una sesión|
+
+* Class Booking
+
+|Atributo|Tipo|Descripción|
+| :- | :- | :- |
+|id|int|Identificador de la reserva|
+|start\_date|String|Fecha de inicio de la reserva|
+|finish\_date|String|Fecha de fin de la reserva|
+|price|float|Precio de la reserva|
+|service|String|Servicio reservado|
+
+* Class Notification\_managment
+
+|Atributo|Tipo|Descripción|
+| :- | :- | :- |
+|id|int|Identificador de la notificación|
+|creator|String|Autor de la notificación|
+|service|String|Servicio relacionado a la notificación|
+
+* Class Notification
+
+|Atributo|Tipo|Descripción|
+| :- | :- | :- |
+|id|int|Identificador del servicio de notificacion|
+|UserClient|User\_client|Cliente que recibe la notificacion|
+|UserTrainer|User\_trainer|Entrenador que envía la notificacion|
+
+* Class PaymentProcess
+
+|Atributo|Tipo|Descripción|
+| :- | :- | :- |
+|id|int|Identificador del proceso de pago|
+|visaCard|String|Numero del cliente de Visa|
+
+* Class TrainEase
+
+|Atributo|Tipo|Descripción|
+| :- | :- | :- |
+|id|int|Identificador de TrainEase|
+|users|User\_client|Clientes de TrainEase|
+|trainers|User\_trainer|Veterinarios de TrainEase|
+|sessions|Session|Sesiones de TrainEase|
+|booking|Booking|Reservas de TrainEase|
+|notifications|Notification\_Manager|Notificaciones de TrainEase|
+
+### 4.8. Database Design
+#### 4.8.1. Database Diagram
+
+![Database](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/3c7cd7c2-41bb-47b0-9c3b-40728384cfa6)
+
+
+
