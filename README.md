@@ -1284,3 +1284,7 @@ A continuación, se muestran las evidencias del equipo durante el Sprint 1.
 ![git2](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/43078416-df2a-4e1c-9508-c144d2ab5435)
 
 ![git3](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/a1d45f26-c4da-4752-a8b7-ca237ab27ab7)
+
+### Anexos
+
+Videos de Exposiciones: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/EfjOeScC6OBMhmtfjLc6LS4BwWn5EbBZkKUYrjP-3LmT4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=OjPrdm
