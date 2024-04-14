@@ -198,11 +198,6 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-- [5.3. Validation Interviews](#53-validation-interviews)
-  - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-  - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-- [5.4. Video About-the-Product](#54-video-about-the-product)
 
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
@@ -517,8 +512,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 21 |
 | **Distrito** | Magdalena del Mar |
-| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/d6992f0a-08aa-4f3c-96dc-d65301e1143d)
-| Durante la entrevista Hiro nos comenta que su actividad física últimamente anda alta ya que hace ejercicio en casa. También dice que no ha tenido experiencias con entrenadores personales, pero en el caso que necesite, busca que el entrenador le de asesoramiento y si hace bien los ejercicios. Nos comenta que le parece buena idea una página para reservar sesiones con trainers de forma online. Y que le gustaría ver en la pagina las reseñas de otros usuarios y ver información del entrenador para poder reservar una sesión. |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/d6992f0a-08aa-4f3c-96dc-d65301e1143d)| Durante la entrevista Hiro nos comenta que su actividad física últimamente anda alta ya que hace ejercicio en casa. También dice que no ha tenido experiencias con entrenadores personales, pero en el caso que necesite, busca que el entrenador le de asesoramiento y si hace bien los ejercicios. Nos comenta que le parece buena idea una página para reservar sesiones con trainers de forma online. Y que le gustaría ver en la pagina las reseñas de otros usuarios y ver información del entrenador para poder reservar una sesión. |
 | **URL de la grabación** | [Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f |
 | **Timming** | 00:00 - 03:44 |
 
@@ -526,8 +520,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 20 |
 | **Distrito** | Magdalena del Mar |
-| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/5fa889eb-b76e-4849-971a-0a4c0fb34676)
- | Durante la entrevista Moises nos comenta que su actividad física es muy alta ya que va al gimnasio para hacer ejercicio. También dice que utiliza un aplicativo para realizar el seguimiento de su entrenamiento. Nos dice que ha tenido experiencias con entrenadores personales, y busca que el entrenador que escoja sepa sobre ganancias muscular. Nos comenta que le parece buena idea una página para reservar sesiones con trainers en línea. Y que le gustaría ver en la página las reseñas de otros usuarios y ver información del entrenador para poder reservar una sesión. |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/5fa889eb-b76e-4849-971a-0a4c0fb34676)| Durante la entrevista Moises nos comenta que su actividad física es muy alta ya que va al gimnasio para hacer ejercicio. También dice que utiliza un aplicativo para realizar el seguimiento de su entrenamiento. Nos dice que ha tenido experiencias con entrenadores personales, y busca que el entrenador que escoja sepa sobre ganancias muscular. Nos comenta que le parece buena idea una página para reservar sesiones con trainers en línea. Y que le gustaría ver en la página las reseñas de otros usuarios y ver información del entrenador para poder reservar una sesión. |
 | **URL de la grabación** | [Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f |
 | **Timming** | 03:45 - 07:35 |
 
@@ -535,8 +528,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 21 |
 | **Distrito** | Breña |
-| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/f7db4ae5-93aa-43d8-bcb6-0d2d20e394b0)
- | Durante la entrevista Adriana nos comenta que su actividad física es media y que realiza ejercicio en casa. También dice que su forma de realizar el seguimiento de su entrenamiento es por videos. Nos dice que no ha tenido experiencias con entrenadores personales, y busca que el entrenador que escoja sea paciente y que sea experto. Nos comenta que le parece buena idea una página para reservar sesiones con trainers en línea.  |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/f7db4ae5-93aa-43d8-bcb6-0d2d20e394b0)| Durante la entrevista Adriana nos comenta que su actividad física es media y que realiza ejercicio en casa. También dice que su forma de realizar el seguimiento de su entrenamiento es por videos. Nos dice que no ha tenido experiencias con entrenadores personales, y busca que el entrenador que escoja sea paciente y que sea experto. Nos comenta que le parece buena idea una página para reservar sesiones con trainers en línea.  |
 | **URL de la grabación** | [Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f |
 | **Timming** | 07:36 - 12:58 |
 
@@ -546,8 +538,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 28 |
 | **Distrito** | Jesús María |
-| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/35c2a3bf-f737-4098-95af-873c3a3e7799)
- | Julio cuenta con 3 años de experiencia en el rubro de Trainer Fitness, menciona que la labor de un trainer es empoderar a sus clientes para que puedan mejorar su imagen física, un desafio que presenta es la demanda de tiempo y actividades. Julio indica que para calcular la tarifa depende de la calidad del servicio, experiencia y comunicación con los clientes. Indica que se siente disgustado porque no le gusta involucrar su número personal con sus clientes. |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/35c2a3bf-f737-4098-95af-873c3a3e7799)| Julio cuenta con 3 años de experiencia en el rubro de Trainer Fitness, menciona que la labor de un trainer es empoderar a sus clientes para que puedan mejorar su imagen física, un desafio que presenta es la demanda de tiempo y actividades. Julio indica que para calcular la tarifa depende de la calidad del servicio, experiencia y comunicación con los clientes. Indica que se siente disgustado porque no le gusta involucrar su número personal con sus clientes. |
 | **URL de la grabación** |[Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f|
 | **Timming** | 13:00 - 20:51 |
 
@@ -555,8 +546,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 24 |
 | **Distrito** | Breña |
-| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/ed2c97de-25f7-4ac1-8b8e-c32003395575)
- | Eugenio informa que como aspirante a entrenador personal, lleva un año en la industria del fitness, brindando sesiones de asesoría y adquiriendo experiencia práctica. Su motivación proviene de la pasión por el bienestar y la satisfacción de ayudar a otros a alcanzar sus metas de salud. Aunque su experiencia es limitada, he trabajado con clientes de diferentes niveles de condición física, adaptando cada sesión según sus necesidades individuales. Utiliza métodos simples para el seguimiento del progreso y se esfuerzo por mantener a mis clientes motivados y comprometidos. Está abierto a ofrecer sesiones en línea y establecer tarifas justas mientras prioriza el crecimiento profesional y la gestión eficiente del tiempo. |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/ed2c97de-25f7-4ac1-8b8e-c32003395575)| Eugenio informa que como aspirante a entrenador personal, lleva un año en la industria del fitness, brindando sesiones de asesoría y adquiriendo experiencia práctica. Su motivación proviene de la pasión por el bienestar y la satisfacción de ayudar a otros a alcanzar sus metas de salud. Aunque su experiencia es limitada, he trabajado con clientes de diferentes niveles de condición física, adaptando cada sesión según sus necesidades individuales. Utiliza métodos simples para el seguimiento del progreso y se esfuerzo por mantener a mis clientes motivados y comprometidos. Está abierto a ofrecer sesiones en línea y establecer tarifas justas mientras prioriza el crecimiento profesional y la gestión eficiente del tiempo. |
 | **URL de la grabación** |[Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f|
 | **Timming** | 20:51 - 26:30 |
 
@@ -564,8 +554,7 @@ A continuación, presentaremos algunas de las preguntas que se realizarán en la
 | --- | --- |
 | **Edad** | 25 |
 | **Distrito** | Breña |
-| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/38bf15b1-ba99-4a39-b8df-b283dc78bb76)
-| Edwin Santiago con un año de experiencia como entrenador personal, menciona que su motivación radica en su pasión por el fitness y ayudar a otros a alcanzar sus metas. Utiliza herramientas para seguir su progreso y mantener su compromiso. Está abierto a sesiones en línea y establecer tarifas justas. Gestiona eficientemente la comunicación y programación de sesiones, y utiliza estrategias de marketing para adquirir y retener clientes. Busco en TrainEase herramientas efectivas para optimizar mi negocio y alcanzar más éxito. |
+| ![image](https://github.com/Veterinaria-OpenSource/TF-Report-Veterinaria/assets/89022092/38bf15b1-ba99-4a39-b8df-b283dc78bb76)|Edwin Santiago con un año de experiencia como entrenador personal, menciona que su motivación radica en su pasión por el fitness y ayudar a otros a alcanzar sus metas. Utiliza herramientas para seguir su progreso y mantener su compromiso. Está abierto a sesiones en línea y establecer tarifas justas. Gestiona eficientemente la comunicación y programación de sesiones, y utiliza estrategias de marketing para adquirir y retener clientes. Busco en TrainEase herramientas efectivas para optimizar mi negocio y alcanzar más éxito. |
 | **URL de la grabación** |[Enlace a Microsoft Online](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431_upc_edu_pe/Ed9zrOW-NxNEpm8Yfi5HZNMBHQTZ2HNEVaXcUwap1HRMcw?e=LGvt9f|
 | **Timming** | 26:30 - 30:29 |
 
@@ -944,5 +933,214 @@ Link Structurizr: https://structurizr.com/share/90921/27146507-2f00-4f68-8a04-77
 
 ![Database](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/3c7cd7c2-41bb-47b0-9c3b-40728384cfa6)
 
+## Capítulo 5: Product Implementation, Validation & Deployment
+
+### 5.1. Software Configuration Management
+#### 5.1.1. Software Development Environment Configuration
+
+**Requirements Management**
+
+Trello: Es una herramienta de gestión de proyectos en línea que utiliza tableros visuales para ayudar a los equipos a colaborar y organizar su trabajo. Con Trello, puedes crear tableros para proyectos, listas para diferentes etapas del trabajo y tarjetas para tareas individuales. Las tarjetas pueden contener descripciones, listas de verificación, archivos adjuntos, fechas de vencimiento y más. <https://trello.com/es>
+
+**Product UX/UI Design**
+
+* Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En el caso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser. <https://www.figma.com/login>
+* Lucidchart: Aplicación para diagramar flujos. Será empleado para el diseño de wireflows, user-flows y el diagrama de clases asociado a la aplicación. <https://www.lucidchart.com/>
+* Vertabelo: Es una herramienta de modelado de bases de datos en línea que permite a los usuarios diseñar y mantener esquemas de bases de datos relacionales. Con Vertabelo, los usuarios pueden crear diagramas de entidad-relación (DER), definir tablas, atributos, relaciones y restricciones de integridad referencial, y generar scripts SQL para implementar la estructura de la base de datos.  <https://vertabelo.com/>
+
+**Software Testing**
+
+* Gherkin: Es un sistema de etiquetado utilizado para describir los criterios de aceptación de estructura de una user story. <https://cucumber.io/docs/gherkin/>
+
+**Software Development**
+
+* Visual Studio Code: Es un editor de código fuente que permite a los desarrolladores escribir y editar código de manera eficiente. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples lenguajes de programación, disponibilidad en múltiples sistemas operativos, entre otros beneficios. <https://code.visualstudio.com/>
+
+* WebStorm: Es un entorno de desarrollo integrado (IDE) que permite a los desarrolladores escribir, compilar y depurar código de manera eficiente. WebStorm está diseñado específicamente para el desarrollo de aplicaciones web y cuenta con una amplia variedad de herramientas que facilitan el desarrollo de software.  <https://www.jetbrains.com/es-es/webstorm/>
+
+* HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. <https://www.w3schools.com/html/html5_syntax.asp>
+
+* CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la mano con HTML. <https://google.github.io/styleguide/htmlcssguide.html>
+
+* JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz de usuario dentro de la aplicación. <https://developer.mozilla.org/es/docs/Web/JavaScript>
+
+**Software Deployment**
+
+* Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Los miembros del equipo accederán a través de la línea de comandos en sus sistemas locales y permite mantener un historial de cambios en el código fuente. <https://git-scm.com/>
+
+**Software Documentation and Project Management**
+
+* Github: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros del equipo accederán a través de sus navegadores web. <https://github.com/>
+
+#### 5.1.2. Source Code Management
+
+El proyecto seguirá las convenciones de flujo de trabajo establecidas por el modelo GitFlow para el control de versiones, utilizando GitHub como plataforma y sistema de control de versiones. A continuación, se detallará cómo se implementará GitFlow:
+
+Aplicamos este flujo para los repositorios:
 
 
+[TrainEase Organization] (https://github.com/TrainEase-AplicacionesWeb)
+
+[Landing Page Repository] (https://github.com/TrainEase-AplicacionesWeb/TrainEase-LandingPage.git)
+
+[Report TF TrainEase] (https://github.com/TrainEase-AplicacionesWeb/TrainEase.git)
+
+![gitflow](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/9fc35032-fd99-44f1-b7e1-6e6b3915a0de)
+
+**Estructura de ramas:**
+
+- **Main:** La rama main es la principal de la aplicación, el cual contiene el código fuente de producción y se actualiza con cada versión estable del software.
+- **Develop:** La rama develop es la rama de desarrollo del proyecto, el cual contiene el código fuente en desarrollo y se actualiza con cada nuevo feature(funcionalidad).
+- **Feature:** La rama feature es una rama de funcionalidad que se crea a partir de la rama develop y se utiliza para desarrollar una nueva funcionalidad del software.
+- **Release:** La rama release es una rama de lanzamiento que se crea a partir de la rama develop y se utiliza para preparar una nueva versión del software para su lanzamiento oficial.
+- **Hotfix:** La rama hotfix es una rama de corrección de errores que se crea a partir de la rama main y se utiliza para corregir errores críticos en el software.
+
+**Semantic Versioning:** Para la versión del software, se aplicará Semantic Versioning 2.0.0, un sistema de numeración de versiones que se basa en tres números separados por puntos: Major, Minor y Patch.
+
+**Conventional Commits:** Para los mensajes de confirmación del código fuente, se aplicará Conventional Commits, un estándar de mensajes de confirmación que se basa en un formato predefinido y permite a los desarrolladores generar automáticamente el historial de cambios del software. La estructura del mensaje será la siguiente:
+
+```
+git commit -m <type>[optional scope]: <description>
+```
+
+#### 5.1.3. Source Code Style Guide & Conventions
+
+HTML:  Para alcanzar un código HTML coherente, sostenible y ordenado, aquí hay algunas prácticas que se deben seguir:
+
+1. **Indentación consistente**: Utilizar espacios o tabulaciones de manera consistente para indentar el código. Esto ayuda a mejorar la legibilidad y la organización del código.
+1. **Nombres de etiquetas semánticos**: Utilizar etiquetas HTML semánticas apropiadas para cada parte de la estructura del documento (por ejemplo, **header**, **nav**, **main**, **section**, **article**, **footer**). Esto mejora la accesibilidad y la comprensión del contenido.
+1. **Atributos ordenados**: Mantener un orden consistente de los atributos dentro de las etiquetas HTML (por ejemplo, **class**, **id**, **src**, **href**, **alt**). Esto facilita la lectura y la búsqueda de atributos específicos.
+1. **Uso de comentarios significativos**: Utilizar comentarios HTML para explicar partes complejas del código o para marcar secciones importantes. Los comentarios deben ser descriptivos y concisos.
+
+CSS: Algunas prácticas comunes empleadas en CSS:
+
+1. **Utilizar selectores eficientes:** Selecciona elementos de manera eficiente utilizando selectores específicos y evitando selectores demasiado generales que puedan afectar el rendimiento.
+1. **Organizar reglas CSS:** Mantén reglas CSS relacionadas juntas y agrúpalas lógicamente para mejorar la legibilidad y el mantenimiento del código.
+1. **Evitar estilos !important:** Limita el uso de la regla !important para evitar conflictos y mantener la especificidad del selector CSS.
+1. **Prefijos de proveedores:** Utiliza prefijos de proveedores (-webkit-, -moz-, -ms-, -o-) cuando sea necesario para garantizar la compatibilidad con diferentes navegadores.
+1. **Utilizar variables CSS (CSS variables):** Define y utiliza variables CSS para reutilizar valores comunes y facilitar la personalización del diseño.
+
+JavaScript:  Algunas buenas prácticas comunes para JavaScript:
+
+1. **Utilizar nombres descriptivos:** Utiliza nombres claros y descriptivos para variables, funciones y métodos para mejorar la legibilidad del código.
+1. **Seguir convenciones de nomenclatura:** Utiliza camelCase para nombres de variables y funciones, UpperCamelCase para nombres de clases, y SCREAMING\_SNAKE\_CASE para constantes.
+1. **Evitar variables globales**: Limita el uso de variables globales para evitar posibles conflictos y problemas de mantenimiento.
+1. **Usar const y let en lugar de var:** Prefiere el uso de const y let en lugar de var para declarar variables, ya que tienen un alcance de bloque más claro y ayudan a prevenir errores.
+
+**Gherkin:** Es un lenguaje de dominio específico (DSL) que se utiliza para escribir especificaciones de comportamiento en un formato legible por humanos y máquinas. Se basa en el plan de texto y utiliza términos como Feature, Scenario, Given, When, Then para describir la funcionalidad y los escenarios de uso de una aplicación. Estas especificaciones son útiles para comunicar requisitos y comportamientos esperados del sistema, y pueden usarse para generar casos de prueba automatizados o como documentación viva.
+
+#### 5.1.4. Software Deployment Configuration
+
+Para el lanzamiento de la Landing Page de TrainEase, se utilizará GitHub Pages, un servicio de alojamiento web estático que permite a los desarrolladores alojar sitios web estáticos de forma gratuita. Los pasos son muy sencillos:
+
+1. Crear un repositorio en GitHub con el código fuente de la Landing Page. Normalmente se recomienda que el repositorio contenga el archivo index.html en el proyecto.
+1. Habilitar GitHub Pages en la configuración del repositorio, seleccionando la rama y la carpeta de despliegue.
+1. Seleccionar la rama y la carpeta. Normalmente se recomienda seleccionar la rama main y la carpeta raíz del proyecto.
+1. Acceder a la URL proporcionada por GitHub Pages para visualizar la Landing Page. Normalmente la URL tiene el siguiente formato: "<https://username.github.io/repository>"
+
+### 5.2. Landing Page, Services & Applications Implementation
+#### 5.2.1. Sprint 1
+##### 5.2.1.1. Sprint Planning 1
+
+Para ejecutar este proyecto utilizamos el framework Scrum, reconocido por su enfoque ágil y colaborativo para el desarrollo de software. Scrum se caracteriza por dividir el proyecto en iteraciones llamadas sprints, que suelen durar de 2 a 4 semanas, durante las cuales se centra en el desarrollo de características específicas del producto. En el primer sprint, nos concentramos en documentar el proyecto y crear la página de inicio de la aplicación, que servirá como la primera impresión para los usuarios al interactuar con la aplicación.
+
+|Sprint 1||
+| :- | :- |
+|Sprint Planning Background||
+|Date |2024/03/22|
+|Time |19:00 PM|
+|Location |Reunión virtual mediante Discord|
+|Prepared By|Luiggi Antonio|
+|Attendees|Luiggi Antonio, Brayan Gamboa|
+|Sprint n – 1 Review Summary|Se logró desarrollar la documentación del proyecto y la elaboración del Landing Page de la aplicación TrainEase gracias a nuestros entrevistados.|
+|<p>Sprint n – 1 Retrospective </p><p>Summary</p>|Se logró cumplir con el objetivo del Sprint 1, sin embargo, se debe mejorar la rapidez de la realización y coordinación entre los miembros del equipo para que el desarrollo sea eficaz.|
+|Sprint Goal & User Stories||
+|Sprint n Goal|Realizar la documentación del proyecto y la desarrollo del Landing Page de TrainEase|
+|Sprint n Velocity|4|
+|Sum of Story Points|18|
+
+##### 5.2.1.2. Sprint Backlog 1
+
+El Sprint Backlog 1 es una lista detallada de tareas específicas que se han planificado y se comprometen a completarse durante el Sprint 1. El equipo de desarrollo tuvo tareas asignadas para el desarrollo de la Landing Page de la aplicación TrainEase, es por eso por lo que usamos la herramienta de Trello.
+
+![trello](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/c304728f-e874-4a94-af16-d18ad5507e53)
+
+Link Trello: <https://trello.com/invite/b/qP3re682/ATTId8dc148a8044a52e60d43d4120ad106820F193B9/sprint-1-trainease>
+
+|Sprint #||||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Title|Work-Item/Task||||||
+|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To Do, In Progress, Done)|
+|US01|Header de la Lading Page|3|Colocar la barra del header enlazadas a secciones|Permitir al usuario hacer click en el header y redirigirlos a las secciones respectivas de la Landing Page|1|Luiggi Antonio|Done|
+|US02|Información trainers|3|Colocar la información para el entrenador|Mostrar información relevante para los trainers en la Landing Page|1|Brayan Gamboa|In process|
+|US03|Sección caracteristicas|3|Colocar la seccion de caracteristicas en la Landing Page|Mostrar las caracteristicas en la Landing Page|2|Brayan Gamboa|In process|
+|US04|Seccion Visión y Misión |3|Colocar la seccion de Mision y Vision en la Landing Page|Mostrar la mision y vision en la Landing Page|2|Luiggi Antonio|In process|
+|US05|Body de la Landing Page|3|Colocar informacion del Body al Landing Page|Mostrar todo el cuerpo del Landing Page|3|Luiggi Antonio|To review|
+|US06|Footer de la Landing Page|3|Colocar la barra del footer enlazadas a secciones|Permitir al usuario hacer click en el footer y redirigirlos a las secciones respectivas de la Landing Page|1|Luiggi Antonio|In process|
+|US07|Sección Sobre nosotros|3|Colocar la seccion de Sobre Nosotros en la Landing Page|Mostrar información sobre nosotros en la Landing Page|1|Brayan Gamboa|To review|
+
+##### 5.2.1.3. Development Evidence for Sprint Review
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|<https://github.com/TrainEase-AplicacionesWeb/TrainEase.github.io.git>|main|ffaa0c4|Initial commit|Initial commit|13/04/24|
+||feature/Implementación-LandingPage|0ce4d96|Add Landing Page|Add all Landing Page |14/04/24|
+||Feature/InformacionTrainers|b644b15|Add information of Trainers on Landing Page|Add Information of Trainers|14/04/2024|
+
+##### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Para el Sprint 1, se ha realizado la primera versión del Landing Page de la aplicación TrainEase, la sección "testing" se centra en la implementación de pruebas de aceptación y pruebas de usabilidad.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|<https://github.com/TrainEase-AplicacionesWeb/TrainEase.github.io.git>|TrainEase.github.io|ffaa0c4|Initial commit|Se creó el proytecto|14/04/2024|
+
+Accede a la Landing Page: <https://trainease-aplicacionesweb.github.io/TrainEase.github.io/>
+
+##### 5.2.1.5. Execution Evidence for Sprint Review
+
+En este Sprint 1, se ha implementado la primera versión del Landing Page, la cual se ha desplegado en GitHub Pages. A continuación, se muestran las secciones:
+
+* Sección Sobre Nosotros: En esta sección se muestra nuestro propósito y algunas cosas que ofrecemos.
+
+![about us](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/1979e156-2992-4ac8-8ab4-5494fca3b238)
+
+
+* Sección Segmentos: En esta sección se muestran los beneficios de utilizar nuestra aplicación.
+
+![segmentos](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/6bf99198-8b7a-47f0-bb0c-422262744138)
+
+* Sección Trainers: En esta sección se muestra la información sobre los Trainers para que se unan a la aplicación:
+
+![trainers](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/6be888e1-d8eb-47a1-8893-b3c120e9342b)
+
+##### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+
+##### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint 1, se ha desplegado la primera versión del Landing Page, la cual se ha desplegado en GitHub Pages. A continuación, se muestran las evidencias:
+
+![LP1](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/4eced0e6-bc83-4558-80b8-b851f8d06bf1)
+
+![LP2](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/232a06fd-9d26-4e1e-9867-340d40065ba3)
+
+![LP3](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/f7eac099-0365-4054-ba0f-10614c93a8af)
+
+![LP4](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/8f4dd96b-2a3f-4edc-a4e6-abf224a70ec9)
+
+##### 5.2.1.8. Team Collaboration Insights during Sprint
+
+|Miembro del Equipo|Actividades Realizadas|
+| :- | :- |
+|Luiggi Antonio|Implementación del Header,footer,body y la misión y visión.|
+|Brayan Gamboa|Implementación de la sección Sobre Nosotros, Características y la información de Trainers |
+
+A continuación, se muestran las evidencias del equipo durante el Sprint 1.
+
+![git1](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/4ba8fa0d-c4e9-46a7-bc33-f0d94ac8926c)
+
+![git2](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/43078416-df2a-4e1c-9508-c144d2ab5435)
+
+![git3](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/a1d45f26-c4da-4752-a8b7-ca237ab27ab7)
