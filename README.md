@@ -1368,7 +1368,7 @@ Para el Sprint 2, se ha realizado la primera versión del Frontend de la aplicac
 | :- | :- | :- | :- | :- | :- |
 |<https://github.com/TrainEase-AplicacionesWeb/trainease-appweb.git>|frontend/feature|ffaa0c4|Initial commit|Se creó el proytecto|29/04/2024|
 
-Accede al Frontend: 
+Accede al Frontend:  [https://trainease-firebase.web.app](https://trainease-firebase.web.app)
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
