@@ -89,10 +89,16 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
     <td>
           <strong>Antonio, Jeremy</strong><br>
           <strong>TB1</strong><br>
-          Se planteó el desarrollo del startup junto al Lean UX Canvas, Segmentos Objetivos, Entrevistas segmento Trainer, User Persona, User Journey Mapping, As-is Scenario Mapping, To-Be Scenario Mapping, Impact Mapping, Landing Page UI Design, Web Application UX/UI Design.<br><br>
+          Se planteó el desarrollo del startup junto al Lean UX Canvas, Segmentos Objetivos, Entrevistas segmento Trainer, User Persona, User Journey Mapping, As-is Scenario Mapping, To-Be Scenario Mapping, Impact Mapping, Landing Page UI Design, Web Application UX/UI Design.<br>
+          <strong>TP</strong><br>
+          Se planteó como realizar el Frontend y dividio las pantallas a realizar de la aplicación Web utilizando como herramiento Visual Studio Code.
+          <br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
-          Investigué sobre los posibles competidores y sus caracteristicas, también las estrategias y tácticas frente a competidores, los Antecedentes y problematicas,Lean UX Problem Statement, Lean UX Assumptions, Entrevista segmento Clientes, User Persona, User Stories, Product Backlog, Style Guidelines, Information Architecture,Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design y Implemantacion del Capitulo 5<br><br>
+          Investigué sobre los posibles competidores y sus caracteristicas, también las estrategias y tácticas frente a competidores, los Antecedentes y problematicas,Lean UX Problem Statement, Lean UX Assumptions, Entrevista segmento Clientes, User Persona, User Stories, Product Backlog, Style Guidelines, Information Architecture,Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design y Implemantacion del Capitulo 5<br>
+          <strong>TP</strong><br>
+          Investigué sobre las posibles pantallas del Frontend y como realizar el sprint 2 usando como herramiento tello.
+          <br>
     </td>
     <td>Como equipo, logramos establecer medios de comunicación eficientes mediante la aplicacion de Discord, para poder realizar una organización eficiente y de tal manera realizar una entrega de proyecto decente.<br><br></td>
     </td><br>
@@ -102,10 +108,18 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
     <td>
           <strong>Antonio, Jeremy </strong><br>
           <strong>TB1</strong><br>
-          Se desarrolló la definición del startup junto a su misión y visión, se diseñó el Lean UX Canvas, Segmentos Objetivos, Entrevistas segmento Trainer, User Persona, User Journey Mapping, As-is Scenario Mapping, To-Be Scenario Mapping, Impact Mapping, Landing Page UI Design, Web Application UX/UI Design.<br><br>
+          Se desarrolló la definición del startup junto a su misión y visión, se diseñó el Lean UX Canvas, Segmentos Objetivos, Entrevistas segmento Trainer, User Persona, User Journey Mapping, As-is Scenario Mapping, To-Be Scenario Mapping, Impact Mapping, Landing Page UI Design, Web Application UX/UI Design.<br>
+          <strong>TP</strong><br>
+          Se desarrolló el Frontend de la aplicación web
+          como el login, register, home en Visual Studio Code con Vue.
+          <br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
-          Realicé el cuadro de competidores, estrategias y tácticas frente a competidores, los Antecedentes y problematicas,Lean UX Problem Statement, Lean UX Assumptions, Entrevista segmento Clientes, User Persona, User Stories, Product Backlog, Style Guidelines, Information Architecture,Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design y Implemantacion del Capitulo 5.<br><br>
+          Realicé el cuadro de competidores, estrategias y tácticas frente a competidores, los Antecedentes y problematicas,Lean UX Problem Statement, Lean UX Assumptions, Entrevista segmento Clientes, User Persona, User Stories, Product Backlog, Style Guidelines, Information Architecture,Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design y Implemantacion del Capitulo 5.<br>
+          <strong>TP</strong><br>
+          Realicé parte del Frontend de la aplicación web
+          como el FAQ, y la realización del sprint 2.
+          <br>
     </td>
     <td>Como equipo,logramos desarrollar un trabajo digno, dado que seguimos con todo lo requerido para la elaboración del producto en el menor tiempo posible. El documento elaborado proporciona a las personas información detallada acerca del proyecto, incluyendo su desarrollo y las herramientas empleadas en su realización.<br><br></td>
     </td><br>
@@ -201,6 +215,15 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-1)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
@@ -1284,3 +1307,113 @@ A continuación, se muestran las evidencias del equipo durante el Sprint 1.
 ![git2](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/43078416-df2a-4e1c-9508-c144d2ab5435)
 
 ![git3](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/a1d45f26-c4da-4752-a8b7-ca237ab27ab7)
+
+#### 5.2.2. Sprint 2
+
+##### 5.2.2.1. Sprint Planning 2
+
+En este Sprint 2, se tiene planeado desarrollar la primera versión del Frontend de la aplicación TrainEase, que cuenta con la funcionalidad de mostrar el listado de los entrenadores y sus datos con el uso de una Fake Api.
+
+|Sprint 2||
+| :- | :- |
+|Sprint Planning Background||
+|Date |2024/04/28|
+|Time |18:00 PM|
+|Location |Reunión virtual mediante Discord|
+|Prepared By|Luiggi Antonio|
+|Attendees|Luiggi Antonio, Brayan Gamboa|
+|Sprint n – 1 Review Summary|Se logró desarrollar la documentación del Sprint 2 y la realización del Frontend de la APP.|
+|<p>Sprint n – 1 Retrospective </p><p>Summary</p>|Se logró cumplir con el objetivo del Sprint 2, sin embargo, se debe mejorar la rapidez de la realización y coordinación entre los miembros del equipo para que el desarrollo sea eficaz.|
+|Sprint Goal & User Stories||
+|Sprint n Goal|Realizar la documentación del sprint 2 y la desarrollo del Frontend de TrainEase|
+|Sprint n Velocity|5|
+|Sum of Story Points|22|
+
+##### 5.2.2.2. Sprint Backlog 2
+
+El Sprint Backlog 2 es una lista detallada de tareas específicas que se han planificado y se comprometen a completarse durante el Sprint 2. El equipo de desarrollo tuvo tareas asignadas para el desarrollo del Frontend de la aplicación TrainEase, es por eso por lo que usamos la herramienta de Trello.
+
+![trello](https://github.com/TrainEase-AplicacionesWeb/trainease-appweb/assets/118092973/a39f384a-105e-4bf3-8b49-52421c6e7d9c)
+
+
+Link Trello: <https://trello.com/invite/b/ypjTDQBR/ATTI5a32ba7b035d473ec2b908aed86b788685533D62/sprint2>
+
+|Sprint #||||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Title|Work-Item/Task||||||
+|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To Do, In Progress, Done)|
+|US003|Registrar Trainer|3|Permitir que el entrenador se registre|Permitir que nuevos entrenadores se registren en la pagina|1|Luiggi Antonio|Done|
+|US004|Registrar Cliente|3|Permitir que el cliente se registre|Permitir que nuevos clientes se registren en la pagina|1|Brayan Gamboa|Done|
+|US005|Inicio de sesión para Entrenadores y Clientes|3|Permitir que el entrenador y el cliente inicien sesión|Permitir a los clientes y entrenadores previamente registrados iniciar sesión|2|Brayan Gamboa|Done|
+|US006|Ver perfiles de Entrenadores|3|Permitir al cliente visualizar perfiles de entrenadores |Permitir al cliente visualizar todos los perfiles que busque de entrenadores|2|Luiggi Antonio|In process|
+|US014|Visualizar perfil del cliente|3|Permitir al cliente visualizar su perfil|Permitir al cliente ingresar a visualizar su perfil|3|Luiggi Antonio|In process|
+|US015|Visualizar perfil del entrenador|3|Permitir al entrenador visualizar su perfil|Permitir al entrenador ingresar a visualizar su perfil|1|Luiggi Antonio|In process|
+|US019|Lista de Servicios|3|Permitir al entrenador listar los servicios que ofrece|Permitir al entrenador listar todos sus servicios ofrecidos|1|Brayan Gamboa|In process|
+|US012|Proceso de pago|3|Permitir el proceso de pago al cliente|Permitir al usuario realizar el proceso de pago en la aplicacion|2|Luiggi Antonio|In process|
+
+##### 5.2.2.3. Development Evidence for Sprint Review
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|<https://github.com/TrainEase-AplicacionesWeb/trainease-appweb.git>|main|<p></p><p>710855a</p>|Initial commit|Initial commit|29/04/24|
+|<https://github.com/TrainEase-AplicacionesWeb/trainease-appweb.git>|develop|3514227|<p>Add branch</p><p>develop</p>|<p>Add branch</p><p>develop</p>|03/05/2024|
+|<https://github.com/TrainEase-AplicacionesWeb/trainease-appweb.git>|feature/login-register-toolbar|<p></p><p>9a21879</p>|Add Login,register and toolbar|Add Login,register and toolbar|03/05/24|
+|<https://github.com/TrainEase-AplicacionesWeb/trainease-appweb.git>|Feature/Faq|<p></p><p>bc05785</p>|Add Frequently Asked Questions|Add Frequently Asked Questions|03/05/2024|
+
+##### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Para el Sprint 2, se ha realizado la primera versión del Frontend de la aplicación TrainEase.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|<https://github.com/TrainEase-AplicacionesWeb/trainease-appweb.git>|frontend/feature|ffaa0c4|Initial commit|Se creó el proytecto|29/04/2024|
+
+Accede al Frontend: 
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+En este Sprint 2, se ha implementado la primera versión del Frontend, la cual se ha desplegado en FireBase. A continuación, se muestran las secciones:
+
+1. Sección Login: En esta sección se muestra la interfaz para el inicio de sesión de los nuevos clientes.
+
+
+1. Sección Register: En esta sección se muestran la interfaz para el registro en la app.
+
+
+1. Sección Perfil de Trainers: En esta sección se muestra la información sobre los Trainers para que se unan a la aplicación:
+
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Para este Sprint 2, no se logró documentar los servicios debido a que se ha centrado en el desarrollo del Frontend de la aplicación. Sin embargo, se tiene planeado desarrollar la documentación de los servicios en los siguientes sprints. 
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint 2, se ha desplegado la primera versión del Frontend, la cual se ha desplegado en FireBase. A continuación, se muestran las evidencias:
+
+![login](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/8cc2203d-5939-4bea-b1d1-8f8d4a8fbac0)
+
+![trainers](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/3864ba25-4627-44fc-aa35-143de66a874a)
+
+![faq](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/d79aaf5e-9d1a-4817-8487-fa03c95aa975)
+
+![exercise](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/0b27873f-31a2-40b0-8b4b-825655b4ade2)
+
+![logiin](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/8c89f876-f990-4d9f-a7aa-7f892fbfecd6)
+
+![register](https://github.com/TrainEase-AplicacionesWeb/trainease-appweb/assets/118092973/42f19ca4-540e-4281-8ee4-abdfa81ba6e3)
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+|Miembro del Equipo|Actividades Realizadas|
+| :- | :- |
+|Luiggi Antonio|Implementación del login,register, toolbar y perfil.|
+|Brayan Gamboa|Implementación de la sección Frequently Asked Questions, Policy Terms y home.|
+
+A continuación, se muestran las evidencias del equipo durante el Sprint 2.
+
+![a](https://github.com/TrainEase-AplicacionesWeb/trainease-appweb/assets/118092973/2709d84e-64aa-467c-8279-94d99e1b5e90)
+
+![b](https://github.com/TrainEase-AplicacionesWeb/trainease-appweb/assets/118092973/d751cfbc-67cf-416f-925e-b50635317b11)
+
+![c](https://github.com/TrainEase-AplicacionesWeb/trainease-appweb/assets/118092973/3ef0fdf2-a01c-4fe1-b9f0-26aa3443d30d)
+
