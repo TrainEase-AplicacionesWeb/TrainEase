@@ -92,13 +92,18 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
           Se planteó el desarrollo del startup junto al Lean UX Canvas, Segmentos Objetivos, Entrevistas segmento Trainer, User Persona, User Journey Mapping, As-is Scenario Mapping, To-Be Scenario Mapping, Impact Mapping, Landing Page UI Design, Web Application UX/UI Design.<br>
           <strong>TP</strong><br>
           Se planteó como realizar el Frontend y dividio las pantallas a realizar de la aplicación Web utilizando como herramiento Visual Studio Code.
+          <strong>TB2<strong><br>
+          Se plantearon nuevas soluciones para las correciones y creación de las pantallas.
           <br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
           Investigué sobre los posibles competidores y sus caracteristicas, también las estrategias y tácticas frente a competidores, los Antecedentes y problematicas,Lean UX Problem Statement, Lean UX Assumptions, Entrevista segmento Clientes, User Persona, User Stories, Product Backlog, Style Guidelines, Information Architecture,Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design y Implemantacion del Capitulo 5<br>
           <strong>TP</strong><br>
           Investigué sobre las posibles pantallas del Frontend y como realizar el sprint 2 usando como herramiento tello.
+          <strong>TB2<strong><br>
+          Se planteó la propuesta del backend.
           <br>
+          
     </td>
     <td>Como equipo, logramos establecer medios de comunicación eficientes mediante la aplicacion de Discord, para poder realizar una organización eficiente y de tal manera realizar una entrega de proyecto decente.<br><br></td>
     </td><br>
@@ -112,6 +117,8 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
           <strong>TP</strong><br>
           Se desarrolló el Frontend de la aplicación web
           como el login, register, home en Visual Studio Code con Vue.
+          <strong>TB2<strong><br>
+          Se desarrollaron las soluciones de las pantallas ya existentes, se añadieron nuevas pantallas y se mejoró la documentación
           <br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
@@ -119,6 +126,8 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
           <strong>TP</strong><br>
           Realicé parte del Frontend de la aplicación web
           como el FAQ, y la realización del sprint 2.
+          <strong>TB2<strong><br>
+          Se desarrolló parte del backend y se mejoró la documentación.
           <br>
     </td>
     <td>Como equipo,logramos desarrollar un trabajo digno, dado que seguimos con todo lo requerido para la elaboración del producto en el menor tiempo posible. El documento elaborado proporciona a las personas información detallada acerca del proyecto, incluyendo su desarrollo y las herramientas empleadas en su realización.<br><br></td>
@@ -1481,14 +1490,31 @@ En este Sprint 3, se ha implementado la primera versión del Backend, la cual se
 
 1. Mejora del Sign-in:
 
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/d4280baa-2c01-4840-99a9-7b60efb728e2)
 
 2. Mejora del Login:
 
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/bf318c00-b9a8-41fd-a22f-3e612feb4eea)
 
 3. Mejora vista de Trainers:
 
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/f56f8547-4290-4286-8c2e-94167044a619)
 
 4. Mejora vista del Perfil:
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/5209e95f-80bb-4051-a224-23556a4490f6)
+
+5. Creación del Horario:
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/f0e09e0a-a7bf-4182-9c21-c46983c5be3e)
+
+6. Mejora de las Rutinas:
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/3ae2cc2d-1a5e-486f-8fca-f4611fee08a7)
+
+7. Mejora del FAQ:
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/c24ade92-864f-4165-bd05-01ba5eea349d)
 
 Web Services: 
 
@@ -1632,4 +1658,112 @@ A continuación, se muestran las evidencias del equipo durante el Sprint 3.
 
 #### 5.3.3.	Evaluaciones según heurísticas.
 
+# UX Heuristics & Principles Evaluation
 
+## Usability – Inclusive Design – Information Architecture
+
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Aplicaciones Web  
+**SECCIÓN:** SI91  
+**PROFESORES:** Hugo Allan Mori Paiva  
+**AUDITOR:** Grupo 05 – TrainEase  
+**CLIENTE(S):** Grupo 05 – TrainEase  
+
+**NOTA:** Los contenidos de este formato (en color plomo) son referidos a un sitio web de ejemplo. Use este formato como referencia de la estructura que tiene que ser entregada y elimine el contenido en plomo. Coloque su contenido con color azul.
+
+### SITE o APP A EVALUAR:
+**Trainease**
+
+### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+- Registro de un usuario nuevo
+- Inicio de Sesión
+- Búsqueda de un paquete turístico
+- Reserva de un viaje
+- Cancelación de una reserva
+- Agregar ítems a un pedido
+
+### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+### TABLA RESUMEN:
+
+| #   | Problema                                      | Escala de severidad | Heurística/Principio violada(o)             |
+|-----|-----------------------------------------------|---------------------|--------------------------------------------|
+| 1   | Las cards de los trainers tienen un diseño muy anticuado | 2                   | Usability: Visibilidad del estado del Sistema |
+| 2   | Las cards de las rutinas no cuentan con un diseño amigable con el usuario | 2                   | Usability: Visibilidad del estado del Sistema |
+| 3   | El botón My Profile no cuenta con Styles      | 3                   | Usability: Visibilidad del estado del Sistema |
+| 4   | El botón aceptar y guardar no sirve           | 4                   | Usability: Visibilidad del estado del Sistema y control y libertad del usuario |
+
+### DESCRIPCIÓN DE PROBLEMAS:
+
+**PROBLEMA #1:** Las cards de los trainers tienen un diseño muy anticuado  
+**Severidad:** 2  
+**Heurística violada:** Usability: Visibilidad del estado del Sistema.  
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/096b5d4b-1665-4544-a5c7-c34e5eabf91d)
+
+**Problema:** Las cards de los trainers tienen un diseño muy anticuado.  
+**Recomendación:** Se recomienda mejorar el diseño de las cards.
+
+**PROBLEMA #2:** Las cards de las rutinas no cuentan con un diseño amigable con el usuario  
+**Severidad:** 2  
+**Heurística violada:** Usability: Visibilidad del estado del Sistema.  
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/90dbda82-668b-4146-985c-203813ce0dc5)
+
+**Problema:** Las cards de las rutinas no cuentan con un diseño amigable con el usuario.  
+**Recomendación:** Se recomienda mejorar la ubicación de las cards para una óptima experiencia al usuario.
+
+**PROBLEMA #3:** El botón My Profile no cuenta con Styles  
+**Severidad:** 3  
+**Heurística violada:** Usability: Visibilidad del estado del Sistema.  
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/03abf6cf-7c13-4970-a9d9-4ec5ffca8d1d)
+
+**Problema:** El botón My Profile no cuenta con Styles.  
+**Recomendación:** Se recomienda que se le agreguen estilos al botón “My Profile” ya que se ve muy anticuado.
+
+**PROBLEMA #4:** El botón “aceptar y guardar” no sirve  
+**Severidad:** 4  
+**Heurística violada:** Usability: Visibilidad del estado del Sistema y control y libertad del usuario.  
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/2ef95e5a-254e-4a3e-b579-0098902fbe3f)
+
+**Problema:** El botón de la parte inferior no cuenta con alguna función.  
+**Recomendación:** Se recomienda que se agregue la función de guardar datos personales modificados.
+
+#####  5.4.	Conclusiones.
+
+Mejora de la Accesibilidad: TrainEase facilita la búsqueda y reserva de entrenadores personales al proporcionar una plataforma centralizada y fácil de usar, lo que permite a los usuarios acceder a entrenadores calificados sin complicaciones.
+
+Eficiencia en la Gestión de Entrenadores: La plataforma ofrece a los entrenadores herramientas para gestionar sus perfiles, disponibilidad y reservas, mejorando su eficiencia operativa y su capacidad para atraer y retener clientes.
+
+Personalización del Servicio: TrainEase permite una experiencia de usuario personalizada, adaptándose a las preferencias y necesidades específicas de cada cliente, lo cual es fundamental para mantener el compromiso y la motivación en los programas de entrenamiento.
+
+Utilización de Datos para Mejora Continua: La recopilación de datos en tiempo real y la retroalimentación constante de los usuarios permiten a TrainEase ajustar y mejorar continuamente su plataforma y los servicios ofrecidos, asegurando una mejor experiencia para los usuarios y entrenadores.
+
+Expansión y Adaptabilidad: La plataforma tiene el potencial de expandirse a nuevas áreas geográficas y de adaptar sus servicios a diferentes mercados, lo que puede aumentar su base de usuarios y entrenadores, promoviendo el crecimiento sostenido del negocio.
+
+#####  5.5.	Bibliografía.
+
+Lean UX: Designing Great Products with Agile Teams by Jeff Gothelf and Josh Seiden. (2013). O'Reilly Media.
+
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries. (2011). Crown Business.
+
+Agile Estimating and Planning by Mike Cohn. (2005). Prentice Hall.
+
+Domain-Driven Design: Tackling Complexity in the Heart of Software by Eric Evans. (2003). Addison-Wesley.
+
+Interaction Design: Beyond Human-Computer Interaction by Jenny Preece, Yvonne Rogers, and Helen Sharp. (2015). Wiley.
+
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug. (2014). New Riders.
+
+The User Experience Team of One: A Research and Design Survival Guide by Leah Buley. (2013). Rosenfeld Media.
