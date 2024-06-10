@@ -1417,3 +1417,219 @@ A continuación, se muestran las evidencias del equipo durante el Sprint 2.
 
 ![c](https://github.com/TrainEase-AplicacionesWeb/trainease-appweb/assets/118092973/3ef0fdf2-a01c-4fe1-b9f0-26aa3443d30d)
 
+##### 5.2.3. Sprint 3
+
+##### 5.2.3.1. Sprint Planning 3
+
+En este Sprint 3, se tiene planeado desarrollar el Backend de la aplicación de TrainEase, el cual se encargará de gestionar la información de los Clientes, Entrenadores, reviews y las reservaciones. Por otro lado, el desarrollo del Frontend ha tenido ciertas mejoras con respecto a anteriores versiones.
+
+|Sprint 3||
+| :- | :- |
+|Sprint Planning Background||
+|Date |2024/05/23|
+|Time |10:00 AM|
+|Location |Reunión virtual mediante Discord|
+|Prepared By|Luiggi Antonio|
+|Attendees|Luiggi Antonio, Brayan Gamboa|
+|Sprint 3 Review Summary|Se logró desarrollar la documentación del Sprint 3, la primera versión del Backend y revisión del anterior sprint.|
+|<p>Sprint 3 Retrospective </p><p>Summary</p>|Se logró cumplir con el objetivo del Sprint 3, sin embargo, se debe mejorar la coordinación entre los miembros del equipo para que el desarrollo sea eficaz.|
+|Sprint Goal & User Stories||
+|Sprint 3 Goal|Realizar la documentación del sprint 3, desarrollar la primera versión del Backend y corregir el anterior sprint.|
+|Sprint 3 Velocity|6|
+|Sum of Story Points|25|
+
+##### 5.2.3.2. Sprint Backlog 3
+
+El Sprint Backlog 3 es una lista detallada de tareas específicas que se han planificado y se comprometen a completarse durante el Sprint 3. El equipo de desarrollo tuvo tareas asignadas para el desarrollo del Backend de la aplicación TrainEase y las mejoras del Landing Page y el Frontend, es por eso por lo que usamos la herramienta de Trello.
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/4c5c67f3-ba77-48c5-ae95-2130f1358c1b)
+
+
+Link Trello:   <https://trello.com/invite/b/tvueCUsR/ATTIa649a9abae4005312b31fb16187801f53650F0FD/sprint-3-trainease>
+
+|Sprint 3||||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Title|Work-Item/Task||||||
+|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To Do, In Progress, Done)|
+|US003|Registrar Trainer|3|Permitir que el entrenador se registre|Permitir que nuevos entrenadores se registren en la pagina|1|Luiggi Antonio|To-do|
+|US004|Registrar Cliente|3|Permitir que el cliente se registre|Permitir que nuevos clientes se registren en la pagina|1|Brayan Gamboa|To-do|
+|US005|Inicio de sesión para Entrenadores y Clientes|3|Permitir que el entrenador y el cliente inicien sesión|Permitir a los clientes y entrenadores previamente registrados iniciar sesión|2|Brayan Gamboa|To-do|
+|US006|Ver perfiles de Entrenadores|3|Permitir al cliente visualizar perfiles de entrenadores |Permitir al cliente visualizar todos los perfiles que busque de entrenadores|2|Luiggi Antonio|To-do|
+|US014|Visualizar perfil del cliente|3|Permitir al cliente visualizar su perfil|Permitir al cliente ingresar a visualizar su perfil|3|Luiggi Antonio|To-do|
+|US015|Visualizar perfil del entrenador|3|Permitir al entrenador visualizar su perfil|Permitir al entrenador ingresar a visualizar su perfil|1|Luiggi Antonio|To-do|
+
+##### 5.2.3.3. Development Evidence for Sprint Review
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|<https://github.com/TrainEase-AplicacionesWeb/TrainEase---Backend.git>|main|<p></p><p></p><p>560e31a</p>|Initial commit|Initial commit|09/06/24|
+|<https://github.com/TrainEase-AplicacionesWeb/TrainEase---Backend.git>|develop|<p></p><p>560e31a</p>|<p>Add branch</p><p>develop</p>|<p>Add branch</p><p>develop</p>|09/06/2024|
+|<https://github.com/TrainEase-AplicacionesWeb/TrainEase---Backend.git>|master|<p></p><p>4c7f953</p>|Add all files |Add all files|09/06/24|
+
+##### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+Para el Sprint 3, se ha realizado la primera versión del Backend de la aplicación TrainEase.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|<https://github.com/TrainEase-AplicacionesWeb/TrainEase---Backend.git>|main|<p></p><p>560e31a</p>|Initial commit|Se creó el proytecto|29/04/2024|
+|<https://github.com/TrainEase-AplicacionesWeb/TrainEase---Backend.git>|master|4c7f953||Se agregaron los archivos del backend|09/06/2024|
+
+##### 5.2.3.5. Execution Evidence for Sprint Review
+
+En este Sprint 3, se ha implementado la primera versión del Backend, la cual se ha desplegado con Azure. A continuación, se muestran las secciones:
+
+1. Mejora del Sign-in:
+
+
+2. Mejora del Login:
+
+
+3. Mejora vista de Trainers:
+
+
+4. Mejora vista del Perfil:
+
+Web Services: 
+
+1. Get All Clients
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/060efffc-d1a0-4687-9a12-2274e08d3981)
+
+
+2. Post Clients
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/df0af835-5b40-4d67-a947-ed90705affd2)
+
+
+3. Put Clients
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/5cde349f-71d4-4484-9e80-02db817344e6)
+
+
+4. Delete Clients
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/0e34c452-0c81-447e-8691-6a3c6bf01def)
+
+
+5. Get all Trainers
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/da323166-24c7-4540-8ccc-8cd1e8701c87)
+
+
+6. Post Trainers
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/c0fc3970-f984-460c-8444-acb17696d4b5)
+
+
+7. Put Trainers
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/500fa2c5-43b3-4297-aeee-dd029f0181a7)
+
+
+8. Delete Trainers
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/49a7cc24-6126-4317-8e3c-b24a9cb7dc3b)
+
+
+9. Get all Reviews
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/e9d0a16d-e288-4d30-a293-d3ae1233a62e)
+
+
+10. Post Reviews
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/09c93e84-b5e3-41e7-a9dc-7ad7eac56de6)
+
+
+11. Put Reviews
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/6e0443a4-08d9-4648-a65b-16bdd42a82d8)
+
+
+12. Delete Reviews
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/47144338-05db-4880-9e65-ccce3cfe9d40)
+
+
+13. Get all Booking
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/59cf2965-5e18-4dbf-88c5-ab24edcf4f6a)
+
+14. Post Booking
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/4b8120fe-ec3d-4fc4-bec6-5703d12a1618)
+
+
+15. Put Booking
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/0fac21a1-c02b-418c-b95d-a0a9e4db8f1b)
+
+
+16. Delete Booking
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/cc552b52-85cd-4f55-bfb5-7fbecf29a129)
+
+
+
+##### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+A continuación, se muestra la documentación de los servicios de la aplicación TrainEase, la cual se ha desarrollado en el Sprint 3. 
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/76f21371-7a81-411e-bb97-7599d28c58c6)
+
+
+|Service|Evidence|Description|
+| :- | :- | :- |
+|Clients| <img src="https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/3ef1fe33-79d8-4346-b8c4-e84ff478c8b8"> |Este servicio permite registrar, editar un cliente en la aplicación TrainEase y obtener todos los clientes.|
+|Trainers| <img src="https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/d0d2dc48-01c8-4b9d-acaa-b516a7bd2d7a"> |Este servicio permite registrar, editar un Trainer en la aplicación TrainEase y obtener todas los Entrenadores.|
+|Booking| <img src="https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/7b977463-d533-4d7f-b47c-ca6b70b489fb"> |Este servicio permite agregar una reserva, obtener una reserva por Id, y obtener reservas por el tipo de servicio en un rango de fecha.|
+|Review| <img src="https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/81c7cca9-d3f8-433d-a1ea-395b284f3a0b"> |Este servicio permite que un usuario en específico realice una reseña a un entrenador en particular y obtener todas las reseñas de un respectivo entrenador, las cuales serán mostradas en el perfil del Entrenador.|
+
+
+
+#####  5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint 3, se hicieron 2 despliegues, en el cual se encuentran la versión mejorada del Frontend de la aplicación y la primera versión del Backend de la aplicación TrainEase:
+
+Acceder al Frontend: <https://trainease-firebase.web.app/>
+
+
+
+Y para el Backend utilizamos Azure:
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/2d4b5eed-fb6d-4c03-8012-9344465f174f)
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/76f21371-7a81-411e-bb97-7599d28c58c6)
+
+
+
+##### 5.2.3.8. Team Collaboration Insights during Sprint
+
+|Miembro del Equipo|Actividades Realizadas|
+| :- | :- |
+|Luiggi Antonio|Mejora del Frontend y el LandingPage|
+|Brayan Gamboa|Creación y Deploy del Backend.|
+
+A continuación, se muestran las evidencias del equipo durante el Sprint 3.
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/b1f01278-4155-4798-9c03-c37d2eeb9179)
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/255244de-43b7-48b9-9a82-b00dda3819fb)
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/4909119f-fe94-4d6d-ade3-7450dbbb0630)
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/ca5c1932-ac47-4cb2-bbfc-646b5f057525)
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/9cdd0de7-4977-4583-b7b2-216044148e2c)
+
+#####  5.3.	Validation Interviews.
+
+##### 5.3.1.	Diseño de Entrevistas.
+
+##### 5.3.2.	Registro de Entrevistas.
+
+
+#### 5.3.3.	Evaluaciones según heurísticas.
+
+
