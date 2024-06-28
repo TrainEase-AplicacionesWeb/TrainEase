@@ -92,19 +92,26 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
           Se planteó el desarrollo del startup junto al Lean UX Canvas, Segmentos Objetivos, Entrevistas segmento Trainer, User Persona, User Journey Mapping, As-is Scenario Mapping, To-Be Scenario Mapping, Impact Mapping, Landing Page UI Design, Web Application UX/UI Design.<br>
           <strong>TP</strong><br>
           Se planteó como realizar el Frontend y dividio las pantallas a realizar de la aplicación Web utilizando como herramiento Visual Studio Code.
-          <strong>TB2<strong><br>
+          <br>
+          <strong>TB2</strong><br>
           Se plantearon nuevas soluciones para las correciones y creación de las pantallas.
+          <br>
+          <strong>TF</strong><br>
+          Se planteó las praguntas para el Validation Interview y la mejora respectida del Frontend.
           <br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
           Investigué sobre los posibles competidores y sus caracteristicas, también las estrategias y tácticas frente a competidores, los Antecedentes y problematicas,Lean UX Problem Statement, Lean UX Assumptions, Entrevista segmento Clientes, User Persona, User Stories, Product Backlog, Style Guidelines, Information Architecture,Domain-Driven Software Architecture, Software Object-Oriented Design, Database Design y Implemantacion del Capitulo 5<br>
           <strong>TP</strong><br>
           Investigué sobre las posibles pantallas del Frontend y como realizar el sprint 2 usando como herramiento tello.
-          <strong>TB2<strong><br>
+          <br>
+          <strong>TB2</strong><br>
           Se planteó la propuesta del backend.
           <br>
-          
-    </td>
+          <strong>TF</strong><br>
+          Se planteó parte del backend con los endopoints y la documentación de sprint 4.
+          <br>
+          </td>
     <td>Como equipo, logramos establecer medios de comunicación eficientes mediante la aplicacion de Discord, para poder realizar una organización eficiente y de tal manera realizar una entrega de proyecto decente.<br><br></td>
     </td><br>
   </tr>
@@ -117,8 +124,12 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
           <strong>TP</strong><br>
           Se desarrolló el Frontend de la aplicación web
           como el login, register, home en Visual Studio Code con Vue.
-          <strong>TB2<strong><br>
+          <br>
+          <strong>TB2</strong><br>
           Se desarrollaron las soluciones de las pantallas ya existentes, se añadieron nuevas pantallas y se mejoró la documentación
+          <br>
+          <strong>TF</strong><br>
+          Se desarrolló el Validation Interview y la mejora respectida del Frontend.
           <br>
           <strong>Gamboa, Brayan</strong><br>
           <strong>TB1</strong><br>
@@ -126,8 +137,12 @@ La rama **"feature"** se ha utiliza para las modificaciones/implementaciones que
           <strong>TP</strong><br>
           Realicé parte del Frontend de la aplicación web
           como el FAQ, y la realización del sprint 2.
-          <strong>TB2<strong><br>
+          <br>
+          <strong>TB2</strong><br>
           Se desarrolló parte del backend y se mejoró la documentación.
+          <br>
+          <strong>TF</strong><br>
+          Se desarrolló todos los endpoints de Backend, se agregó iformación y tambien el sprint 4.
           <br>
     </td>
     <td>Como equipo,logramos desarrollar un trabajo digno, dado que seguimos con todo lo requerido para la elaboración del producto en el menor tiempo posible. El documento elaborado proporciona a las personas información detallada acerca del proyecto, incluyendo su desarrollo y las herramientas empleadas en su realización.<br><br></td>
@@ -1648,6 +1663,141 @@ A continuación, se muestran las evidencias del equipo durante el Sprint 3.
 ![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/ca5c1932-ac47-4cb2-bbfc-646b5f057525)
 
 ![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/118092973/9cdd0de7-4977-4583-b7b2-216044148e2c)
+
+#### 5.2.4. Sprint 4
+
+##### 5.2.4.1. Sprint Planning 4
+
+En este Sprint 4, se tiene planeado desarrollar el Backend de la aplicación de TrainEase, el cual se encargará de gestionar la información de los Clientes, Entrenadores, reviews y las reservaciones. Por otro lado, el desarrollo del Frontend ha tenido ciertas mejoras con respecto a anteriores versiones.
+
+|Sprint 4||
+| :- | :- |
+|Sprint Planning Background||
+|Date |2024/06/20|
+|Time |12:00 PM|
+|Location |Reunión virtual mediante Discord|
+|Prepared By|Luiggi Antonio|
+|Attendees|Luiggi Antonio, Brayan Gamboa.|
+|Sprint 4 Review Summary|Se logró desarrollar la documentación del Sprint 4, la revisión y mejora del anterior sprint.|
+|<p>Sprint 4 Retrospective </p><p>Summary</p>|Se logró cumplir con el objetivo del Sprint 4, se tuvo en cuenta las observaciones de la entrega anterior, lo cual nos ha permitido mejorar nuestro enfoque.|
+|Sprint Goal & User Stories||
+|Sprint 4 Goal|Realizar la documentación del sprint 4, corregir errores del sprint 3 y agregar Validation Interview |
+|Sprint 4 Velocity|8|
+|Sum of Story Points|31|
+
+##### 5.2.4.2. Sprint Backlog 4
+
+El Sprint Backlog 4 es una lista detallada de tareas específicas que se han planificado y se comprometen a completarse durante el Sprint 4. El equipo de desarrollo tuvo tareas asignadas para la mejora del Backend de la aplicación TrainEase, además, mejorar el Landing Page y el Frontend, es por eso por lo que usamos la herramienta de Trello.
+
+![image](<https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/480b70aa-0df4-4e68-bea2-a107df97d866>)
+
+Link Trello:  <https://trello.com/invite/b/SwTexyP5/ATTI41e0d15188a23b6a85cb9bf9a7b77183E14C84CD/sprint-4-trainease>
+
+
+|Sprint 4||||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Title|Work-Item/Task||||||
+|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To Do, In Progress, Done)|
+|US003|Registrar Trainer|3|Permitir que el entrenador se registre|Permitir que nuevos entrenadores se registren en la pagina|1|Luiggi Antonio|In-process|
+|US004|Registrar Cliente|3|Permitir que el cliente se registre|Permitir que nuevos clientes se registren en la pagina|1|Brayan Gamboa|In-process|
+|US006|Ver perfiles de Entrenadores|3|Permitir al cliente visualizar perfiles de entrenadores|Permitir al cliente visualizar todos los perfiles que busque de entrenadores|2|Brayan Gamboa|In-process|
+|US014|Visualizar perfil del cliente|3|Permitir al cliente visualizar su perfil|Permitir al cliente ingresar a visualizar su perfil|3|Luiggi Antonio|Done|
+|US022|Vista de calendario|3|Permitir al cliente ver el calendario|Permitir al cliente visualizar el calendario|4|Luiggi Antonio|Done|
+
+
+
+
+##### 5.2.4.3. Development Evidence for Sprint Review
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|<https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF.git>|main|85b812d|Initial commit|Se creó el proyecto|28/07/2024|
+|<https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF.git>|develop|705b791|Add Branch develop |Se agregó contenido del Frontend|28/07/2024|
+|<https://github.com/TrainEase-AplicacionesWeb/trainease-appweb.git>|Feature/update-appweb|<p></p><p>0385053</p>|Add Calendar|Se mejoró la vista de entrenadores y se agregó el calendario|07/07/2024|
+
+##### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+Para el Sprint 4, se ha realizado el Backend de la aplicación TrainEase.
+
+API Documentation Deployed: 
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commit on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|https://github.com/TrainEase-AplicacionesWeb/TrainEase---Backend.git|main|560e31a|Initial commit|Se creó el proytecto|29/04/2024|
+|https://github.com/TrainEase-AplicacionesWeb/TrainEase---Backend.git|master|4c7f953||Se agregaron los archivos del backend|09/06/2024|
+
+##### 5.2.4.5. Execution Evidence for Sprint Review
+
+En este Sprint 4, se ha mejorado ciertos aspectos del Frontend y se hizo un nuevo deploy, el cual fue despegado por FireBase. A continuación, se muestran las secciones:
+
+1. Mejora vista de Trainers:
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/f341acb6-005c-4951-a599-a2de45fbe0e8)
+
+2. Mejora vista del Perfil:
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/2608e59a-161f-42af-8416-3332aab83ad6)
+
+3. Creación del Horario:
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/ba76c2d6-e732-4078-b13c-08073a2e479b)
+
+4. Mejora de las Rutinas:
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/947823fd-0fc2-4ff1-8633-91a48b41b3f7)
+
+5. Mejora del FAQ:
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/aa0e021c-299a-45a8-8c18-742a98505394)
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+A continuación, se muestra la documentación de los servicios de la aplicación TrainEase, la cual se ha desarrollado en el Sprint 4. En el cual se creó el Backend y pudiendo mostrar los endpoints por Swagger.
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/c26429cb-99d5-433f-8858-fcd2c8b3b3ef)
+
+|Service|Evidence|Description||
+| :- | :- | :- | :- |
+|Clients|![image](https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/794e42e2-4e1a-4d40-8f69-ad498ac5cd73)|Este servicio permite registrar, editar un cliente en la aplicación TrainEase y obtener todos los clientes.||
+|Trainers|![image](https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/e71e3b3e-6195-41f6-80ee-cdd24ec3ea19)|Este servicio permite registrar, editar un Trainer en la aplicación TrainEase y obtener todas los Entrenadores.||
+|Booking|![image](https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/333bf019-0c35-47b9-8738-2f18bbaa179c)|Este servicio permite agregar una reserva, obtener una reserva por Id, y obtener reservas por el tipo de servicio en un rango de fecha.||
+|Review|![image](https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/614d502a-1824-4d1a-9221-1aaf6401321d)|Este servicio permite que un usuario en específico realice una reseña a un entrenador en particular y obtener todas las reseñas de un respectivo entrenador, las cuales serán mostradas en el perfil del Entrenador.||
+
+
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para la entrega del Sprint 4, se hizo 1 despliegue, en el cual se encuentran la versión mejorada del Frontend de la aplicación e intentar desplegar el Backend de la aplicación TrainEase:
+
+Acceder al Frontend: <https://trainease-29504.web.app/>
+
+![image](<https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/9b66ee1f-8e10-4d1e-9170-d2977bfbe988>)
+
+![image](<https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/85fa9bf0-55bc-4523-b7c2-2f1046dc9cd6>)
+
+![image](<https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/9b2d68c2-aea7-4b8a-bfd5-3256c94860db>)
+
+![image](<https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/bf7176dd-622f-4a57-b30f-c39d313821c0>)
+
+Para el Backend:
+
+![image](https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/2583f00b-4a6a-4e1a-92d7-5f8b8a7f23cc)
+
+![image](<https://github.com/TrainEase-AplicacionesWeb/trainease-appweb/assets/118092973/59acd7bc-90f0-452a-b1d7-a535a203c8c7>)
+
+![image](<https://github.com/TrainEase-AplicacionesWeb/TrainEaseTF/assets/118092973/c26429cb-99d5-433f-8858-fcd2c8b3b3ef>)
+
+
+
+Nuestro equipo se apoyó en la herramienta de Azure para el intento de despliegue de la aplicación TrainEase. El despliegue de tanto la base de datos como el Backend no se pudo realizar por problemas de la máquina virtual. A continuación, se muestra el enlace de la documentación de la API desplegada en Azure.
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint
+
+|Miembro del Equipo|Actividades Realizadas|
+| :- | :- |
+|Luiggi Antonio|Mejora del Frontend y el LandingPage|
+|Brayan Gamboa|Mejora y Deploy del Backend.|
+
 
 #####  5.3.	Validation Interviews.
 
