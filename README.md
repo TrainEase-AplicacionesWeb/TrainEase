@@ -1799,11 +1799,52 @@ Nuestro equipo se apoyó en la herramienta de Azure para el intento de despliegu
 |Brayan Gamboa|Mejora y Deploy del Backend.|
 
 
-#####  5.3.	Validation Interviews.
+####  5.3.	Validation Interviews.
 
 ##### 5.3.1.	Diseño de Entrevistas.
+A continuación, presentaremos algunas de las preguntas que se realizarán en las entrevistas a los clientes de trainers y a los trainers.
+
+**Preguntas para los clientes de entrenadores:**
+
+- ¿Cuál fue tu primera impresión al ver la página de inicio?
+- ¿Crees que la navegación es intuitiva?
+- ¿La información proporcionada es clara y comprensible?
+- ¿Qué mejorarías en el proceso de reservación con los entrenadores?
+- ¿Hubo algún elemento visual que te haya molestado o distraído?
+- ¿Recomendarías esta página a otros clientes que buscan entrenadores? ¿Por qué?
+
+**Preguntas para los entrenadores:**
+
+- ¿Cuál fue tu primera impresión al ver la página de inicio?
+- ¿Cómo describirías tu experiencia de navegación por la página?
+- ¿La información proporcionada es clara y relevante para tu perfil?
+- ¿Qué mejorarías en el proceso de registro?
+- ¿Sientes que tu perfil está bien representado en la plataforma?
+- ¿Recomendarías esta plataforma a otros entrenadores? ¿Por qué?
 
 ##### 5.3.2.	Registro de Entrevistas.
+
+- Entrevistas realizadas a clientes de trainers:
+
+|Entrevista 1|Daniel Vargas|
+| :- | :- |
+|Edad|21|
+|Distrito|Breña|
+|![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/befecb27-9180-42e3-9e56-a36fbeb4206d)|Daniel Vargas se mostró asertivo durante el uso de la landing page y la aplicación web. Daniel nos indica que le gustan las páginas web pero también indica que sería recomendable cambiar la paleta de colores debido a que no es muy agradable de ver. Finalmente, nos indica que la experiencia fue placentera y le serviría este tipo de soluciones digitales para realizar los servicios que desea.|
+|URL de la grabación|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431\_upc\_edu\_pe/EXh0uXtCzklEm5HFD94l9PgB3Twc7a4Wmu\_o4201-fuPYA?e=fOLa6R&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI2Mzg5YjRjOC0xZGRkLTQ2OTMtYjhhZC0xNDA5MTg5OWQ3NmMifX0%3D|
+|Timming|00:00 – 06:27|
+
+
+
+- Entrevistas realizadas a Trainers:
+
+|Entrevista 1|Manuel García|
+| :- | :- |
+|Edad|24|
+|Distrito|Breña|
+|![image](https://github.com/TrainEase-AplicacionesWeb/TrainEase/assets/89022092/6f67a1bd-c73f-44fb-99a5-59da83e13f71)|Manuel García, personal trainer nos comunica durante la entrevista que siente una experiencia agradable al momento de navegar durante nuestra landing page y aplicación web. Manuel menciona que le gusta mucho la paleta de colores y la tipografía utilizada en ambas páginas, también recalca que sí siente que sería una herramienta muy útil para él, debido a que le facilitaría el trabajo de encontrar clientes|
+|URL de la grabación|https://upcedupe-my.sharepoint.com/:v:/g/personal/u202011431\_upc\_edu\_pe/EXh0uXtCzklEm5HFD94l9PgB3Twc7a4Wmu\_o4201-fuPYA?e=fOLa6R&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI2Mzg5YjRjOC0xZGRkLTQ2OTMtYjhhZC0xNDA5MTg5OWQ3NmMifX0%3D|
+|Timming|06:28 – 11:04|
 
 
 #### 5.3.3.	Evaluaciones según heurísticas.
