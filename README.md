@@ -1931,6 +1931,12 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 **Problema:** El botón de la parte inferior no cuenta con alguna función.  
 **Recomendación:** Se recomienda que se agregue la función de guardar datos personales modificados.
 
+#### 5.3.4 Video About the Product
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/EdjVwCk7Do9Buk3vaOymMsYBETDbQQ3TeI4QLuiBV3YROg?e=fuTvgH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+#### 5.3.5 Video About the Team
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112655_upc_edu_pe/Ea_4uhBCP6FGou19fnyigEEBQlgSi4JaBYDI-ZvRdaRS9Q?e=qcipue&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 #####  5.4.	Conclusiones.
 
 Mejora de la Accesibilidad: TrainEase facilita la búsqueda y reserva de entrenadores personales al proporcionar una plataforma centralizada y fácil de usar, lo que permite a los usuarios acceder a entrenadores calificados sin complicaciones.
